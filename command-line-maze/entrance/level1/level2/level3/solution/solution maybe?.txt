@@ -1,5 +1,0 @@
-Congratulations! You did all this work to NOT find the secret file!
-
-I'll give you a hint:
-
-Look everywhere. (Or just `grep` out my favorite Premier League team haha. The choice is yours either way)
