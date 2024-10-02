@@ -29,13 +29,6 @@ This script is a simple command-line interface (CLI) application that allows use
 4. If selected `Y` (Yes), the script will ask for the details of the user's favorite player. You will be given attributes to fill out, like the `Name`, `Team`, `Age`, and `Salary` of the favorite player. You will be able to Google the salaries of your favorite player if you do not know it. I used ![https://www.spotrac.com](https://www.spotrac.com) as my website to track the salaries. You can even add yourself as your favorite player!!!
 5. After step 4, you are allowed to add more, view all the players that are currently in the list, or exit from the script.
 
-## Code Explanation
-
-- The script starts by printing a list of predefined favorite players using the `rich` library for styled output.
-- It then prompts the user to share their favorite players.
-- If the user responds with 'N', the script will keep prompting until the user responds with 'Y'.
-- Once the user responds with 'Y', the script will ask for the name of the user's favorite player.
-
 ### Main Functions
 
 - `print_players()`: Prints the list of predefined favorite players.
