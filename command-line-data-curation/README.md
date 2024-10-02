@@ -26,8 +26,8 @@ This script is a simple command-line interface (CLI) application that allows use
 
 2. The script will first display a list of predefined favorite players.
 3. It will then prompt the user to share their favorite players by responding with 'Y' or 'N'.
-4. If the user responds with 'N', the script will repeatedly prompt until the user responds with 'Y'.
-5. Once the user responds with 'Y', they will be asked to input the name of their favorite player.
+4. If person decides to add their favorite player, they will be asked to give the `Name`, `Team`, `Age`, and `Salary` of the player.
+5. After step 4, you are allowed to add more, view all the players that are currently in the list, or exit from the script.
 
 ## Code Explanation
 
