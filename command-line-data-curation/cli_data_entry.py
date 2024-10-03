@@ -33,7 +33,6 @@ favorite_players = [
     }
 ]
 
-
 console.print("What's up! I am making favorite soccer player list. Here are mine:", style="bright_green")
 
 def print_players():
@@ -45,54 +44,54 @@ def print_players():
 
 print_players()
 
+def addPlayer():
+    while True:
+        console.print("What is the name of your favorite player?", style="bright_green")
+        player = input("Player: ")
+
+        console.print("What team does your favorite player play for?", style="bright_green")
+        team = input("Team: ")
+
+        console.print("What is the age of your favorite player?", style="bright_green")
+        age = input("Age: ")
+
+        console.print("What is the salary of your favorite player? (you can look this up on the Internet)", style="bright_green")
+        salary = input("Salary: ")
+
+        favorite_player = {"Player": player, "Team": team, "Age": age, "Salary": salary}
+
+        console.print('Does this look correct?', style="bright_green")
+        for field, value in favorite_player.items():
+            console.print(f"[magenta]{field}[/magenta]: {value}")
+
+        response = input("Y/N: ")
+        if response == "Y":
+            favorite_players.append(favorite_player)
+            break
+        else:
+            console.print("Let's try again.", style="bright_green")
+
+def prompt():
+    while True:
+        console.print("Would you like to add another player? Make sure you view your player(s) before leaving the program! Please respond with Yes/No/View", style="bright_green")
+        response = input("Yes/View/No: ")
+
+        if response.lower() == "yes":
+            addPlayer()
+        elif response.lower() == "view":
+            print_players()
+        elif response.lower() == "no":
+            console.print('Have a great day!!!', style="bright_green")
+            break
+        else:
+            console.print("You chose nothing! Make sure you choose Yes, No, or View", style="bright_green")
 
 console.print("\nWould you care to share your favorite players? Please respond Y/N (To simply put it; YOU ARE FORCED TO ADD A PLAYER HAHAHAHAHAH :D )", style="bright_green")
 y_n = input("Y/N: ")
 
-while y_n != "Y":
+while y_n.lower() != "y":
     console.print("What did I tell you!", style="bright_green")
     y_n = input("Y/N: ")
 
-def addPlayer():
-    console.print("What is the name of your favorite player?", style="bright_green")
-    player = input("Player: ")
-
-    console.print("What team does your favorite player play for?", style="bright_green")
-    team = input("Team: ")
-
-    console.print("What is the age of your favorite player?", style="bright_green")
-    age = input("Age: ")
-
-    console.print("What is the salary of your favorite player? (you can look this up on the Internet)", style="bright_green")
-    salary = input("Salary: ")
-
-    favorite_player = {"Player": player, "Team": team, "Age": age, "Salary": salary}
-    console.print("Your favorite player has been added: ", style="bright_green")
-
-    for field, value in favorite_player.items():
-        console.print(f"[bright_green]{field}[/bright_green]: {value}")
-    favorite_players.append(favorite_player)
-
 addPlayer()
-
-  
-def prompt():
-    console.print("Would you like to add another player? Please respond with Yes/No/View", style="bright_green")
-    next = input("Yes/No/View: ")
-    
-    while next != 'Yes' and next != 'No' and next != 'View':
-        console.print("You chose nothing! Make sure you choose Yes, No, or View", style="bright_green")
-        next = input("Yes/No/View: ")
-
-    if next == 'Yes':
-        addPlayer()
-        prompt()
-    
-    elif next == 'No':
-        console.print('Thanks for participating in my favorite soccer player fun!', style="bright_green")
-    
-    elif next == 'View':
-        print_players()
-        prompt()
-    
 prompt()
