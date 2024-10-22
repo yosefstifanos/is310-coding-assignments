@@ -1,0 +1,27 @@
+{
+  "pokemon_item": {
+    "name": "pikachu",
+    "id": 25,
+    "types": [
+      "electric"
+    ],
+    "height": 4,
+    "weight": 60
+  },
+  "europeana_items": [
+    {
+      "title": "My Nintendo Switch",
+      "creator": "Unknown",
+      "year": "Unknown",
+      "type": "IMAGE",
+      "country": "Europe"
+    },
+    {
+      "title": "Group discussions with children: the documentary interpretation of game practice and discourse organization",
+      "creator": "Nentwig-Gesemann, Iris",
+      "year": "2002",
+      "type": "TEXT",
+      "country": "Germany"
+    }
+  ]
+}

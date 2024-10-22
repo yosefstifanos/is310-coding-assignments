@@ -1,0 +1,3364 @@
+{
+    "swapi": {
+        "name": "Luke Skywalker",
+        "height": "172",
+        "mass": "77",
+        "hair_color": "blond",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "19BBY",
+        "gender": "male",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "vehicles": [
+            "https://swapi.dev/api/vehicles/14/",
+            "https://swapi.dev/api/vehicles/30/"
+        ],
+        "starships": [
+            "https://swapi.dev/api/starships/12/",
+            "https://swapi.dev/api/starships/22/"
+        ],
+        "created": "2014-12-09T13:50:51.644000Z",
+        "edited": "2014-12-20T21:17:56.891000Z",
+        "url": "https://swapi.dev/api/people/1/"
+    },
+    "europeana": {
+        "apikey": "ougnitter",
+        "success": true,
+        "requestNumber": 999,
+        "itemsCount": 12,
+        "totalResults": 13,
+        "items": [
+            {
+                "completeness": 0,
+                "country": [
+                    "Germany"
+                ],
+                "dataProvider": [
+                    "Museum of European Cultures, Staatliche Museen zu Berlin"
+                ],
+                "dcTitleLangAware": {
+                    "de": [
+                        "Luke Skywalker"
+                    ]
+                },
+                "edmConcept": [
+                    "http://data.europeana.eu/concept/1796"
+                ],
+                "edmConceptLabel": [
+                    {
+                        "def": "Kunststoff"
+                    },
+                    {
+                        "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+                    },
+                    {
+                        "def": "Muovi"
+                    },
+                    {
+                        "def": "Pl\u00e1stico"
+                    },
+                    {
+                        "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+                    },
+                    {
+                        "def": "Plastikas"
+                    },
+                    {
+                        "def": "Plastmasas"
+                    },
+                    {
+                        "def": "Plastika"
+                    },
+                    {
+                        "def": "Mati\u00e8re plastique"
+                    },
+                    {
+                        "def": "M\u0171anyag"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "Plastika"
+                    },
+                    {
+                        "def": "Plaisteach"
+                    },
+                    {
+                        "def": "Pl\u00e0stic"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+                    },
+                    {
+                        "def": "Plastic"
+                    },
+                    {
+                        "def": "Materie plastiche"
+                    },
+                    {
+                        "def": "Pl\u00e1stico"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "Plastiko"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "Tworzywo sztuczne"
+                    },
+                    {
+                        "def": "Mas\u0103 plastic\u0103"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "Kunststof"
+                    }
+                ],
+                "edmConceptPrefLabelLangAware": {
+                    "de": [
+                        "Kunststoff"
+                    ],
+                    "ru": [
+                        "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+                    ],
+                    "fi": [
+                        "Muovi"
+                    ],
+                    "pt": [
+                        "Pl\u00e1stico"
+                    ],
+                    "bg": [
+                        "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+                    ],
+                    "lt": [
+                        "Plastikas"
+                    ],
+                    "lv": [
+                        "Plastmasas"
+                    ],
+                    "hr": [
+                        "Plastika"
+                    ],
+                    "fr": [
+                        "Mati\u00e8re plastique"
+                    ],
+                    "hu": [
+                        "M\u0171anyag"
+                    ],
+                    "sk": [
+                        "Plast"
+                    ],
+                    "sl": [
+                        "Plastika"
+                    ],
+                    "ga": [
+                        "Plaisteach"
+                    ],
+                    "ca": [
+                        "Pl\u00e0stic"
+                    ],
+                    "sv": [
+                        "Plast"
+                    ],
+                    "el": [
+                        "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+                    ],
+                    "en": [
+                        "Plastic"
+                    ],
+                    "it": [
+                        "Materie plastiche"
+                    ],
+                    "es": [
+                        "Pl\u00e1stico"
+                    ],
+                    "et": [
+                        "Plast"
+                    ],
+                    "eu": [
+                        "Plastiko"
+                    ],
+                    "cs": [
+                        "Plast"
+                    ],
+                    "pl": [
+                        "Tworzywo sztuczne"
+                    ],
+                    "ro": [
+                        "Mas\u0103 plastic\u0103"
+                    ],
+                    "da": [
+                        "Plast"
+                    ],
+                    "nl": [
+                        "Kunststof"
+                    ]
+                },
+                "edmDatasetName": [
+                    "2064108_SMB"
+                ],
+                "edmIsShownAt": [
+                    "http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1399464"
+                ],
+                "edmIsShownBy": [
+                    "http://www.smb-digital.de/eMuseumPlus?service=ImageAsset&module=collection&objectId=1399464&resolution=superImageResolution#2591470"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.smb-digital.de%2FeMuseumPlus%3Fservice%3DImageAsset%26module%3Dcollection%26objectId%3D1399464%26resolution%3DsuperImageResolution%232591470&type=IMAGE"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "2007"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "2007"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "2064108_SMB"
+                ],
+                "europeanaCompleteness": 0,
+                "guid": "https://www.europeana.eu/item/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464",
+                "index": 0,
+                "language": [
+                    "mul"
+                ],
+                "link": "https://api.europeana.eu/record/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "MUSEU"
+                ],
+                "rights": [
+                    "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+                ],
+                "score": 198.63174,
+                "timestamp": 1688606191745,
+                "timestamp_created": "2020-08-24T09:45:34.253Z",
+                "timestamp_created_epoch": 1598262334253,
+                "timestamp_update": "2020-08-24T09:45:34.253Z",
+                "timestamp_update_epoch": 1598262334253,
+                "title": [
+                    "Luke Skywalker"
+                ],
+                "type": "IMAGE",
+                "ugc": [
+                    false
+                ],
+                "year": [
+                    "2007"
+                ]
+            },
+            {
+                "completeness": 0,
+                "country": [
+                    "Sweden"
+                ],
+                "dataProvider": [
+                    "Nordic Museum Foundation"
+                ],
+                "dcDescription": [
+                    "DockaLuke skywalkerInventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010."
+                ],
+                "dcDescriptionLangAware": {
+                    "sw": [
+                        "DockaLuke skywalkerInventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010."
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "sw": [
+                        "Docka:Luke Skywalker"
+                    ]
+                },
+                "edmConcept": [
+                    "http://thesaurus.europeanafashion.eu/thesaurus/10617",
+                    "http://data.europeana.eu/concept/2312",
+                    "http://thesaurus.europeanafashion.eu/thesaurus/10401"
+                ],
+                "edmConceptLabel": [
+                    {
+                        "def": "Puppenkleidung"
+                    },
+                    {
+                        "def": "Puppenkleidung"
+                    },
+                    {
+                        "def": "Schwarz"
+                    },
+                    {
+                        "def": "dockkl\u00e4der"
+                    },
+                    {
+                        "def": "Dockkl\u00e4der"
+                    },
+                    {
+                        "def": "svart"
+                    },
+                    {
+                        "def": "\u03b5\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2"
+                    },
+                    {
+                        "def": "\u0395\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2"
+                    },
+                    {
+                        "def": "\u03bc\u03b1\u03cd\u03c1\u03bf"
+                    },
+                    {
+                        "def": "doll's clothing"
+                    },
+                    {
+                        "def": "Doll clothes"
+                    },
+                    {
+                        "def": "black"
+                    },
+                    {
+                        "def": "vestitini da bambola"
+                    },
+                    {
+                        "def": "Vestitini da bambola"
+                    },
+                    {
+                        "def": "nero"
+                    },
+                    {
+                        "def": "v\u00eatements de poup\u00e9e"
+                    },
+                    {
+                        "def": "V\u00eatements de poup\u00e9e"
+                    },
+                    {
+                        "def": "noir"
+                    },
+                    {
+                        "def": "\u05d1\u05d2\u05d3\u05d9 \u05d1\u05d5\u05d1\u05d5\u05ea"
+                    },
+                    {
+                        "def": "\u05e9\u05d7\u05d5\u05e8"
+                    },
+                    {
+                        "def": "ropa de mu\u00f1eca"
+                    },
+                    {
+                        "def": "Ropa de mu\u00f1eca"
+                    },
+                    {
+                        "def": "negro"
+                    },
+                    {
+                        "def": "poppenkleding"
+                    },
+                    {
+                        "def": "Poppenkleding"
+                    },
+                    {
+                        "def": "zwart"
+                    },
+                    {
+                        "def": "ode\u0107a za lutke"
+                    },
+                    {
+                        "def": "crna"
+                    },
+                    {
+                        "def": "Roupa de boneca"
+                    },
+                    {
+                        "def": "preto"
+                    }
+                ],
+                "edmConceptPrefLabelLangAware": {
+                    "de": [
+                        "Puppenkleidung",
+                        "Schwarz"
+                    ],
+                    "sv": [
+                        "svart",
+                        "dockkl\u00e4der",
+                        "Dockkl\u00e4der"
+                    ],
+                    "pt": [
+                        "preto",
+                        "Roupa de boneca"
+                    ],
+                    "el": [
+                        "\u0395\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2",
+                        "\u03b5\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2",
+                        "\u03bc\u03b1\u03cd\u03c1\u03bf"
+                    ],
+                    "en": [
+                        "Doll clothes",
+                        "black",
+                        "doll's clothing"
+                    ],
+                    "it": [
+                        "vestitini da bambola",
+                        "nero",
+                        "Vestitini da bambola"
+                    ],
+                    "fr": [
+                        "v\u00eatements de poup\u00e9e",
+                        "noir",
+                        "V\u00eatements de poup\u00e9e"
+                    ],
+                    "he": [
+                        "\u05e9\u05d7\u05d5\u05e8",
+                        "\u05d1\u05d2\u05d3\u05d9 \u05d1\u05d5\u05d1\u05d5\u05ea"
+                    ],
+                    "es": [
+                        "negro",
+                        "Ropa de mu\u00f1eca",
+                        "ropa de mu\u00f1eca"
+                    ],
+                    "nl": [
+                        "poppenkleding",
+                        "Poppenkleding",
+                        "zwart"
+                    ],
+                    "sr": [
+                        "ode\u0107a za lutke",
+                        "crna"
+                    ]
+                },
+                "edmDatasetName": [
+                    "2048211_EuropeanaFashion_1019"
+                ],
+                "edmIsShownAt": [
+                    "http://digitaltmuseum.se/things/thing/S-NM/NM.0312865?size=800"
+                ],
+                "edmIsShownBy": [
+                    "http://media35a.dimu.no/media/decoimage/S-NM/NM.0312865/15335?size=800"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia35a.dimu.no%2Fmedia%2Fdecoimage%2FS-NM%2FNM.0312865%2F15335%3Fsize%3D800&type=IMAGE"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "1980/1980"
+                    },
+                    {
+                        "def": "1980"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "1980/1980",
+                        "1980"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "2048211_EuropeanaFashion_1019"
+                ],
+                "europeanaCompleteness": 0,
+                "guid": "https://www.europeana.eu/item/2048211/europeana_fashion_NM_0312865?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/2048211/europeana_fashion_NM_0312865",
+                "index": 0,
+                "language": [
+                    "mul"
+                ],
+                "link": "https://api.europeana.eu/record/2048211/europeana_fashion_NM_0312865.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "European Fashion Heritage Association"
+                ],
+                "rights": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ],
+                "score": 192.07727,
+                "timestamp": 1688661499720,
+                "timestamp_created": "2018-11-29T09:25:08.850Z",
+                "timestamp_created_epoch": 1543483508850,
+                "timestamp_update": "2022-01-25T11:27:24.515Z",
+                "timestamp_update_epoch": 1643110044515,
+                "title": [
+                    "Docka:Luke Skywalker"
+                ],
+                "type": "IMAGE",
+                "ugc": [
+                    false
+                ],
+                "year": [
+                    "1980"
+                ]
+            },
+            {
+                "completeness": 0,
+                "country": [
+                    "Sweden"
+                ],
+                "dataProvider": [
+                    "Uppsala University"
+                ],
+                "dcCreator": [
+                    "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen",
+                    "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+                ],
+                "dcCreatorLangAware": {
+                    "sv": [
+                        "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+                    ],
+                    "def": [
+                        "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+                    ]
+                },
+                "dcDescription": [
+                    "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+                    "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008.",
+                    "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+                    "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+                ],
+                "dcDescriptionLangAware": {
+                    "def": [
+                        "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+                        "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+                    ],
+                    "en": [
+                        "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+                        "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+                    ]
+                },
+                "dcLanguage": [
+                    "en"
+                ],
+                "dcLanguageLangAware": {
+                    "def": [
+                        "en"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "en": [
+                        "Individualism in Theory Or the Virtues of Harry Potter, Luke Skywalker, Lisa Simpson and Pippi Longstocking"
+                    ]
+                },
+                "edmDatasetName": [
+                    "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+                ],
+                "edmIsShownAt": [
+                    "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-26692"
+                ],
+                "edmIsShownBy": [
+                    "http://uu.diva-portal.org/smash/get/diva2:54562/FULLTEXT01"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fuu.diva-portal.org%2Fsmash%2Fget%2Fdiva2%3A54562%2FFULLTEXT01&type=TEXT"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "Second millenium AD"
+                    },
+                    {
+                        "def": "Second millenium AD, years 1001-2000"
+                    },
+                    {
+                        "def": "Time"
+                    },
+                    {
+                        "def": "Chronological period"
+                    },
+                    {
+                        "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+                    },
+                    {
+                        "def": "2008-10-20"
+                    },
+                    {
+                        "def": "2008"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "en": [
+                        "Second millenium AD",
+                        "Second millenium AD, years 1001-2000",
+                        "Time",
+                        "Chronological period"
+                    ],
+                    "zxx": [
+                        "2008-10-20",
+                        "2008"
+                    ],
+                    "fr": [
+                        "2e mill\u00e9naire apr\u00e8s J.-C."
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+                ],
+                "europeanaCompleteness": 0,
+                "guid": "https://www.europeana.eu/item/9200111/BibliographicResource_1000085972499?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/9200111/BibliographicResource_1000085972499",
+                "index": 0,
+                "language": [
+                    "sv"
+                ],
+                "link": "https://api.europeana.eu/record/9200111/BibliographicResource_1000085972499.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "The European Library"
+                ],
+                "rights": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ],
+                "score": 111.95567,
+                "timestamp": 1688651813284,
+                "timestamp_created": "2014-09-07T10:47:14.819Z",
+                "timestamp_created_epoch": 1410086834819,
+                "timestamp_update": "2014-09-07T10:47:14.819Z",
+                "timestamp_update_epoch": 1410086834819,
+                "title": [
+                    "Individualism in Theory Or the Virtues of Harry Potter, Luke Skywalker, Lisa Simpson and Pippi Longstocking"
+                ],
+                "type": "TEXT",
+                "ugc": [
+                    false
+                ],
+                "year": [
+                    "2008"
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "United Kingdom"
+                ],
+                "dataProvider": [
+                    "Jersey Heritage"
+                ],
+                "dcCreator": [
+                    "Kenner"
+                ],
+                "dcCreatorLangAware": {
+                    "en": [
+                        "Kenner"
+                    ]
+                },
+                "dcDescription": [
+                    "5 moulded plastic figues from Star Wars, Return of the Jedi, the figures are Luke Skywalker, Chielf Chirpa (Ewok) Nanda Calrissian and Yoda"
+                ],
+                "dcDescriptionLangAware": {
+                    "en": [
+                        "5 moulded plastic figues from Star Wars, Return of the Jedi, the figures are Luke Skywalker, Chielf Chirpa (Ewok) Nanda Calrissian and Yoda"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "en": [
+                        "Star Wars filrm Memorabilia Action figures"
+                    ]
+                },
+                "edmConcept": [
+                    "http://data.europeana.eu/concept/1796"
+                ],
+                "edmConceptLabel": [
+                    {
+                        "def": "Kunststoff"
+                    },
+                    {
+                        "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+                    },
+                    {
+                        "def": "Muovi"
+                    },
+                    {
+                        "def": "Pl\u00e1stico"
+                    },
+                    {
+                        "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+                    },
+                    {
+                        "def": "Plastikas"
+                    },
+                    {
+                        "def": "Plastmasas"
+                    },
+                    {
+                        "def": "Plastika"
+                    },
+                    {
+                        "def": "Mati\u00e8re plastique"
+                    },
+                    {
+                        "def": "M\u0171anyag"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "Plastika"
+                    },
+                    {
+                        "def": "Plaisteach"
+                    },
+                    {
+                        "def": "Pl\u00e0stic"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+                    },
+                    {
+                        "def": "Plastic"
+                    },
+                    {
+                        "def": "Materie plastiche"
+                    },
+                    {
+                        "def": "Pl\u00e1stico"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "Plastiko"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "Tworzywo sztuczne"
+                    },
+                    {
+                        "def": "Mas\u0103 plastic\u0103"
+                    },
+                    {
+                        "def": "Plast"
+                    },
+                    {
+                        "def": "Kunststof"
+                    }
+                ],
+                "edmConceptPrefLabelLangAware": {
+                    "de": [
+                        "Kunststoff"
+                    ],
+                    "ru": [
+                        "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+                    ],
+                    "fi": [
+                        "Muovi"
+                    ],
+                    "pt": [
+                        "Pl\u00e1stico"
+                    ],
+                    "bg": [
+                        "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+                    ],
+                    "lt": [
+                        "Plastikas"
+                    ],
+                    "lv": [
+                        "Plastmasas"
+                    ],
+                    "hr": [
+                        "Plastika"
+                    ],
+                    "fr": [
+                        "Mati\u00e8re plastique"
+                    ],
+                    "hu": [
+                        "M\u0171anyag"
+                    ],
+                    "sk": [
+                        "Plast"
+                    ],
+                    "sl": [
+                        "Plastika"
+                    ],
+                    "ga": [
+                        "Plaisteach"
+                    ],
+                    "ca": [
+                        "Pl\u00e0stic"
+                    ],
+                    "sv": [
+                        "Plast"
+                    ],
+                    "el": [
+                        "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+                    ],
+                    "en": [
+                        "Plastic"
+                    ],
+                    "it": [
+                        "Materie plastiche"
+                    ],
+                    "es": [
+                        "Pl\u00e1stico"
+                    ],
+                    "et": [
+                        "Plast"
+                    ],
+                    "eu": [
+                        "Plastiko"
+                    ],
+                    "cs": [
+                        "Plast"
+                    ],
+                    "pl": [
+                        "Tworzywo sztuczne"
+                    ],
+                    "ro": [
+                        "Mas\u0103 plastic\u0103"
+                    ],
+                    "da": [
+                        "Plast"
+                    ],
+                    "nl": [
+                        "Kunststof"
+                    ]
+                },
+                "edmDatasetName": [
+                    "2048087_Ag_EU_AthenaPlus_CollectionsTrust"
+                ],
+                "edmIsShownAt": [
+                    "http://catalogue.jerseyheritage.org/collection/Details/collect/60106"
+                ],
+                "edmIsShownBy": [
+                    "http://catalogue.jerseyheritage.org/wp-content/plugins/adlib-interface/adlib-image.php?p=60106&d=collect&i=1"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcatalogue.jerseyheritage.org%2Fwp-content%2Fplugins%2Fadlib-interface%2Fadlib-image.php%3Fp%3D60106%26d%3Dcollect&type=IMAGE"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "Second millenium AD"
+                    },
+                    {
+                        "def": "Second millenium AD, years 1001-2000"
+                    },
+                    {
+                        "def": "Time"
+                    },
+                    {
+                        "def": "Chronological period"
+                    },
+                    {
+                        "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+                    },
+                    {
+                        "def": "1983"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "en": [
+                        "Second millenium AD",
+                        "Second millenium AD, years 1001-2000",
+                        "Time",
+                        "Chronological period"
+                    ],
+                    "zxx": [
+                        "1983"
+                    ],
+                    "fr": [
+                        "2e mill\u00e9naire apr\u00e8s J.-C."
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "2048087_Ag_EU_AthenaPlus_CollectionsTrust"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_JHTO_0010_00009_004?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/2048087/ProvidedCHO_Jersey_Heritage_JHTO_0010_00009_004",
+                "index": 0,
+                "language": [
+                    "en"
+                ],
+                "link": "https://api.europeana.eu/record/2048087/ProvidedCHO_Jersey_Heritage_JHTO_0010_00009_004.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "AthenaPlus"
+                ],
+                "rights": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ],
+                "score": 35.80403,
+                "timestamp": 1688501767244,
+                "timestamp_created": "2015-01-27T14:58:19.893Z",
+                "timestamp_created_epoch": 1422370699893,
+                "timestamp_update": "2016-07-12T18:02:58.261Z",
+                "timestamp_update_epoch": 1468346578261,
+                "title": [
+                    "Star Wars filrm Memorabilia Action figures"
+                ],
+                "type": "IMAGE",
+                "ugc": [
+                    false
+                ],
+                "year": [
+                    "1983"
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "Spain"
+                ],
+                "dataProvider": [
+                    "TV3 Catalan Television"
+                ],
+                "dcDescription": [
+                    "A group of NASA scientists, the US space agency, have discovered a planet with two suns, such as Luke Skywalker, the protagonist of the film saga \u2018The Star Wars.\u2019 Not called Tatooine, but Kepler 16B."
+                ],
+                "dcDescriptionLangAware": {
+                    "en": [
+                        "A group of NASA scientists, the US space agency, have discovered a planet with two suns, such as Luke Skywalker, the protagonist of the film saga \u2018The Star Wars.\u2019 Not called Tatooine, but Kepler 16B."
+                    ]
+                },
+                "dcLanguage": [
+                    "Catalan;\u00a0Valencian"
+                ],
+                "dcLanguageLangAware": {
+                    "def": [
+                        "Catalan;\u00a0Valencian"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "def": [
+                        "Info K"
+                    ],
+                    "en": [
+                        "Info K: Planet with two suns"
+                    ]
+                },
+                "edmDatasetName": [
+                    "2051922_TV3_Television_of_Catalonia"
+                ],
+                "edmIsShownAt": [
+                    "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3697370/"
+                ],
+                "edmIsShownBy": [
+                    "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3697370/"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F5%2F8%2F1316542009585.jpg&type=VIDEO"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "2011-09-20"
+                    },
+                    {
+                        "def": "2011"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "2011-09-20",
+                        "2011"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "2051922_TV3_Television_of_Catalonia"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_3697370?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/2051922/data_euscreenXL_3697370",
+                "index": 0,
+                "language": [
+                    "ca"
+                ],
+                "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_3697370.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "EUscreen"
+                ],
+                "rights": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ],
+                "score": 35.594803,
+                "timestamp": 1688647748863,
+                "timestamp_created": "2015-12-11T08:23:03.437Z",
+                "timestamp_created_epoch": 1449822183437,
+                "timestamp_update": "2021-12-03T08:36:11.538Z",
+                "timestamp_update_epoch": 1638520571538,
+                "title": [
+                    "Info K",
+                    "Info K: Planet with two suns"
+                ],
+                "type": "VIDEO",
+                "ugc": [
+                    false
+                ],
+                "year": [
+                    "2011"
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "Spain"
+                ],
+                "dataProvider": [
+                    "TV3 Catalan Television"
+                ],
+                "dcDescription": [
+                    "Harrison Ford, Carrie Fisher and Mark Hamill will again be Han Solo, Princess Leia and Luke Skywalker thirty years later. The protagonists of the initial trilogy of\\ \u2018Star Wars\\\u2019 will participate in the seventh episode of \u2018Star Wars\\\u2019 which will led J. J. Abrams."
+                ],
+                "dcDescriptionLangAware": {
+                    "en": [
+                        "Harrison Ford, Carrie Fisher and Mark Hamill will again be Han Solo, Princess Leia and Luke Skywalker thirty years later. The protagonists of the initial trilogy of\\ \u2018Star Wars\\\u2019 will participate in the seventh episode of \u2018Star Wars\\\u2019 which will led J. J. Abrams."
+                    ]
+                },
+                "dcLanguage": [
+                    "Catalan;\u00a0Valencian"
+                ],
+                "dcLanguageLangAware": {
+                    "def": [
+                        "Catalan;\u00a0Valencian"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "def": [
+                        "Not\u00edcies 3/24"
+                    ],
+                    "en": [
+                        "\\ \u2018Star Wars\u2019 repeats actors"
+                    ]
+                },
+                "edmDatasetName": [
+                    "2051922_TV3_Television_of_Catalonia"
+                ],
+                "edmIsShownAt": [
+                    "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5052111/"
+                ],
+                "edmIsShownBy": [
+                    "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5052111/"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F1%2F3%2F1398839947031.jpg&type=VIDEO"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "2014"
+                    },
+                    {
+                        "def": "2014-04-30"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "2014",
+                        "2014-04-30"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "2051922_TV3_Television_of_Catalonia"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_5052111?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/2051922/data_euscreenXL_5052111",
+                "index": 0,
+                "language": [
+                    "ca"
+                ],
+                "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_5052111.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "EUscreen"
+                ],
+                "rights": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ],
+                "score": 34.49115,
+                "timestamp": 1688648080234,
+                "timestamp_created": "2015-12-11T08:33:53.835Z",
+                "timestamp_created_epoch": 1449822833835,
+                "timestamp_update": "2021-12-03T08:36:11.538Z",
+                "timestamp_update_epoch": 1638520571538,
+                "title": [
+                    "\\ \u2018Star Wars\u2019 repeats actors",
+                    "Not\u00edcies 3/24"
+                ],
+                "type": "VIDEO",
+                "ugc": [
+                    false
+                ],
+                "year": [
+                    "2014"
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "Spain"
+                ],
+                "dataProvider": [
+                    "TV3 Catalan Television"
+                ],
+                "dcDescription": [
+                    "The series continues\\ \u2018The comeback of galaxies\\\u2019 In this second chapter we know the rebel forces, with Pep Guardiola (Pep Plaza) in the role of Obi-Wan Kenobi, Andres Iniesta (Oriol Cruz) as Luke Skywalker and Carles Puyol (Jordi Rios) playing Princess Leia. Y las pifias"
+                ],
+                "dcDescriptionLangAware": {
+                    "en": [
+                        "The series continues\\ \u2018The comeback of galaxies\\\u2019 In this second chapter we know the rebel forces, with Pep Guardiola (Pep Plaza) in the role of Obi-Wan Kenobi, Andres Iniesta (Oriol Cruz) as Luke Skywalker and Carles Puyol (Jordi Rios) playing Princess Leia. Y las pifias"
+                    ]
+                },
+                "dcLanguage": [
+                    "Catalan;\u00a0Valencian"
+                ],
+                "dcLanguageLangAware": {
+                    "def": [
+                        "Catalan;\u00a0Valencian"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "def": [
+                        "Crack\u00f2via"
+                    ],
+                    "en": [
+                        "Crack\u00f2via: The comeback of galaxies - Cap. 2"
+                    ]
+                },
+                "edmDatasetName": [
+                    "2051922_TV3_Television_of_Catalonia"
+                ],
+                "edmIsShownAt": [
+                    "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4038410/"
+                ],
+                "edmIsShownBy": [
+                    "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4038410/"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F0%2F7%2F1334053633070.jpg&type=VIDEO"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "2012"
+                    },
+                    {
+                        "def": "2012-04-09"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "2012",
+                        "2012-04-09"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "2051922_TV3_Television_of_Catalonia"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_4038410?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/2051922/data_euscreenXL_4038410",
+                "index": 0,
+                "language": [
+                    "ca"
+                ],
+                "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_4038410.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "EUscreen"
+                ],
+                "rights": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ],
+                "score": 33.86766,
+                "timestamp": 1688647799341,
+                "timestamp_created": "2015-12-11T08:24:31.792Z",
+                "timestamp_created_epoch": 1449822271792,
+                "timestamp_update": "2021-12-03T08:36:11.538Z",
+                "timestamp_update_epoch": 1638520571538,
+                "title": [
+                    "Crack\u00f2via",
+                    "Crack\u00f2via: The comeback of galaxies - Cap. 2"
+                ],
+                "type": "VIDEO",
+                "ugc": [
+                    false
+                ],
+                "year": [
+                    "2012"
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "Sweden"
+                ],
+                "dataProvider": [
+                    "Nordic Museum Foundation"
+                ],
+                "dcCreator": [
+                    "Lucas, Film",
+                    "Lucas, Film"
+                ],
+                "dcCreatorLangAware": {
+                    "def": [
+                        "Lucas, Film"
+                    ],
+                    "en": [
+                        "Lucas, Film"
+                    ]
+                },
+                "dcDescription": [
+                    "Inventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010.",
+                    "Historisk h\u00e4ndelse, person med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig",
+                    "Historical event, person related to the object: War of the Star",
+                    "Inventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010.",
+                    "Historisk h\u00e4ndelse, person med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig"
+                ],
+                "dcDescriptionLangAware": {
+                    "sv": [
+                        "Inventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010.",
+                        "Historisk h\u00e4ndelse, person med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig"
+                    ],
+                    "def": [
+                        "Inventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010.",
+                        "Historisk h\u00e4ndelse, person med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig"
+                    ],
+                    "en": [
+                        "Historical event, person related to the object: War of the Star"
+                    ]
+                },
+                "dcLanguage": [
+                    "swe"
+                ],
+                "dcLanguageLangAware": {
+                    "def": [
+                        "swe"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "def": [
+                        "Docka"
+                    ],
+                    "en": [
+                        "Docka"
+                    ]
+                },
+                "edmConcept": [
+                    "http://data.europeana.eu/concept/2311"
+                ],
+                "edmConceptLabel": [
+                    {
+                        "def": "Puppe"
+                    },
+                    {
+                        "def": "Nukke"
+                    },
+                    {
+                        "def": "\u041a\u0443\u043a\u043b\u0430"
+                    },
+                    {
+                        "def": "Boneca"
+                    },
+                    {
+                        "def": "\u041a\u0443\u043a\u043b\u0430"
+                    },
+                    {
+                        "def": "L\u0117l\u0117"
+                    },
+                    {
+                        "def": "Lutka"
+                    },
+                    {
+                        "def": "Lelle"
+                    },
+                    {
+                        "def": "Poup\u00e9e"
+                    },
+                    {
+                        "def": "J\u00e1t\u00e9k baba"
+                    },
+                    {
+                        "def": "Lutka"
+                    },
+                    {
+                        "def": "B\u00e1b\u00f3g"
+                    },
+                    {
+                        "def": "Ninot"
+                    },
+                    {
+                        "def": "Docka"
+                    },
+                    {
+                        "def": "\u039a\u03bf\u03cd\u03ba\u03bb\u03b1"
+                    },
+                    {
+                        "def": "Doll"
+                    },
+                    {
+                        "def": "Bambola"
+                    },
+                    {
+                        "def": "Mu\u00f1eca"
+                    },
+                    {
+                        "def": "Nukk"
+                    },
+                    {
+                        "def": "Panenka"
+                    },
+                    {
+                        "def": "Panpina"
+                    },
+                    {
+                        "def": "Lalka"
+                    },
+                    {
+                        "def": "P\u0103pu\u0219\u0103"
+                    },
+                    {
+                        "def": "Dukke"
+                    },
+                    {
+                        "def": "Pop"
+                    }
+                ],
+                "edmConceptPrefLabelLangAware": {
+                    "de": [
+                        "Puppe"
+                    ],
+                    "fi": [
+                        "Nukke"
+                    ],
+                    "ru": [
+                        "\u041a\u0443\u043a\u043b\u0430"
+                    ],
+                    "pt": [
+                        "Boneca"
+                    ],
+                    "bg": [
+                        "\u041a\u0443\u043a\u043b\u0430"
+                    ],
+                    "lt": [
+                        "L\u0117l\u0117"
+                    ],
+                    "hr": [
+                        "Lutka"
+                    ],
+                    "lv": [
+                        "Lelle"
+                    ],
+                    "fr": [
+                        "Poup\u00e9e"
+                    ],
+                    "hu": [
+                        "J\u00e1t\u00e9k baba"
+                    ],
+                    "sl": [
+                        "Lutka"
+                    ],
+                    "ga": [
+                        "B\u00e1b\u00f3g"
+                    ],
+                    "ca": [
+                        "Ninot"
+                    ],
+                    "sv": [
+                        "Docka"
+                    ],
+                    "el": [
+                        "\u039a\u03bf\u03cd\u03ba\u03bb\u03b1"
+                    ],
+                    "en": [
+                        "Doll"
+                    ],
+                    "it": [
+                        "Bambola"
+                    ],
+                    "es": [
+                        "Mu\u00f1eca"
+                    ],
+                    "et": [
+                        "Nukk"
+                    ],
+                    "cs": [
+                        "Panenka"
+                    ],
+                    "eu": [
+                        "Panpina"
+                    ],
+                    "pl": [
+                        "Lalka"
+                    ],
+                    "ro": [
+                        "P\u0103pu\u0219\u0103"
+                    ],
+                    "da": [
+                        "Dukke"
+                    ],
+                    "nl": [
+                        "Pop"
+                    ]
+                },
+                "edmDatasetName": [
+                    "91625_Ag_SE_SwedishNationalHeritage_no_obj"
+                ],
+                "edmIsShownAt": [
+                    "http://digitaltmuseum.se/011023816292"
+                ],
+                "edmIsShownBy": [
+                    "http://mm.dimu.org/image/032s8YerMrk6?dimension=1200x1200"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmm.dimu.org%2Fimage%2F032s8YerMrk6%3Fdimension%3D1200x1200&type=IMAGE"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "1980/1980"
+                    },
+                    {
+                        "def": "1980-01-01/1980-01-01"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "1980/1980",
+                        "1980-01-01/1980-01-01"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "91625_Ag_SE_SwedishNationalHeritage_no_obj"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/91625/nomu_object_NM0312865?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/91625/nomu_object_NM0312865",
+                "index": 0,
+                "language": [
+                    "sv"
+                ],
+                "link": "https://api.europeana.eu/record/91625/nomu_object_NM0312865.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "Swedish Open Cultural Heritage"
+                ],
+                "rights": [
+                    "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+                ],
+                "score": 30.923553,
+                "timestamp": 1688611660601,
+                "timestamp_created": "2019-04-27T19:33:31.567Z",
+                "timestamp_created_epoch": 1556393611567,
+                "timestamp_update": "2019-04-27T19:33:31.567Z",
+                "timestamp_update_epoch": 1556393611567,
+                "title": [
+                    "Docka",
+                    "Docka"
+                ],
+                "type": "IMAGE",
+                "ugc": [
+                    false
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "Spain"
+                ],
+                "dataProvider": [
+                    "TV3 Catalan Television"
+                ],
+                "dcDescription": [
+                    "\\ \u2018Crack\u00f2via\\\u2019 opens a new character: Queca, the cuddly sheep of Carles Puyol (Jordi Rios), who can speak and has no hair on his tongue to say what he thinks. Continue\\ \u2018The comeback of galaxies\\\u2019 In this second chapter, the rebel forces are known, with Pep Guardiola (Pep Plaza) in the role of Obi-wan Kenobi, Andres Iniesta (Oriol Cruz) as Luke Skywalker and Carles Puyol (Jordi Rios) playing Princess Leia. Barca players combine to get the back to the league with a spectacular musical based on the mythical theme\\ \u2018The eye of the tiger\\\u2019. Mourinho (Toni Alb\u00e0) decides to take advantage of Holy Week to continue making himself the martyr in the press room."
+                ],
+                "dcDescriptionLangAware": {
+                    "en": [
+                        "\\ \u2018Crack\u00f2via\\\u2019 opens a new character: Queca, the cuddly sheep of Carles Puyol (Jordi Rios), who can speak and has no hair on his tongue to say what he thinks. Continue\\ \u2018The comeback of galaxies\\\u2019 In this second chapter, the rebel forces are known, with Pep Guardiola (Pep Plaza) in the role of Obi-wan Kenobi, Andres Iniesta (Oriol Cruz) as Luke Skywalker and Carles Puyol (Jordi Rios) playing Princess Leia. Barca players combine to get the back to the league with a spectacular musical based on the mythical theme\\ \u2018The eye of the tiger\\\u2019. Mourinho (Toni Alb\u00e0) decides to take advantage of Holy Week to continue making himself the martyr in the press room."
+                    ]
+                },
+                "dcLanguage": [
+                    "Catalan;\u00a0Valencian"
+                ],
+                "dcLanguageLangAware": {
+                    "def": [
+                        "Catalan;\u00a0Valencian"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "def": [
+                        "Crack\u00f2via"
+                    ],
+                    "en": [
+                        "Crack\u00f2via 09/04/2012"
+                    ]
+                },
+                "edmDatasetName": [
+                    "2051922_TV3_Television_of_Catalonia"
+                ],
+                "edmIsShownAt": [
+                    "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4037770/"
+                ],
+                "edmIsShownBy": [
+                    "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4037770/"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F8%2F9%2F1334008052598.jpg&type=VIDEO"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "2012"
+                    },
+                    {
+                        "def": "2012-04-09"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "2012",
+                        "2012-04-09"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "2051922_TV3_Television_of_Catalonia"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_4037770?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/2051922/data_euscreenXL_4037770",
+                "index": 0,
+                "language": [
+                    "ca"
+                ],
+                "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_4037770.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "EUscreen"
+                ],
+                "rights": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ],
+                "score": 29.446533,
+                "timestamp": 1688647800312,
+                "timestamp_created": "2015-12-11T08:24:31.538Z",
+                "timestamp_created_epoch": 1449822271538,
+                "timestamp_update": "2021-12-03T08:36:11.538Z",
+                "timestamp_update_epoch": 1638520571538,
+                "title": [
+                    "Crack\u00f2via",
+                    "Crack\u00f2via 09/04/2012"
+                ],
+                "type": "VIDEO",
+                "ugc": [
+                    false
+                ],
+                "year": [
+                    "2012"
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "Sweden"
+                ],
+                "dataProvider": [
+                    "Nordic Museum Foundation"
+                ],
+                "dcCreator": [
+                    "Palitoy",
+                    "Palitoy",
+                    "Palitoy"
+                ],
+                "dcCreatorLangAware": {
+                    "sv": [
+                        "Palitoy"
+                    ],
+                    "def": [
+                        "Palitoy"
+                    ],
+                    "en": [
+                        "Palitoy"
+                    ]
+                },
+                "dcDescription": [
+                    "Inventering Sesam 1996-1999:\nF\u00f6rpackning 29 x 15 cm\nFigur H 11 cm\nStj\u00e4rnornas krig-figur, Darth Vader, i originalf\u00f6rpackning. f\u00f6rpackning av svart rektangul\u00e4r pappskiva med text \"STARWARS / RETURN OF THE / JEDI\" och bild p\u00e5 Darth Vader. P\u00e5 h\u00f6ger sidan rektangul\u00e4rt transparent plastfodral (\u00f6ppnat) i vilken dockan ligger. P\u00e5 baksidan text och bild p\u00e5 65 st stj\u00e4rnornas krig-figurer.\nDockan helt gjuten i svart plast, r\u00f6rliga ben och armar, i v\u00e4nstra armen \u00e4r en rosa laserpistol inskjuten som g\u00e5r att skjuta ut. Ikl\u00e4dd l\u00f6s l\u00e5ng svart kappa av tunn plast. M\u00e4rkt p\u00e5 v\u00e4nster l\u00e5r \"c (i ring, copyright-m\u00e4rkt) G.F.G.M.I. 1977\".\nLeif Wallin 1996",
+                    "Stj\u00e4rnornas krig, Darth Vader",
+                    "F\u00f6rpackning 29 x 15 cm\nFigur H 11 cm\n\n\nFiguren \u00e4r fr\u00e5n filmerna \"Stj\u00e4rnornas Krig\", Darth Vader representerar det onda Kejsard\u00f6met. F\u00f6r mer info se inv.nr 312.863-312.868. Dockan ink\u00f6pt som komplement till Stj\u00e4rnornas Krig-figurer ink\u00f6pta i samband med 1986 \u00e5rs hemunders\u00f6kning SAMDOK.\nSerien, som \u00e4r en science fiction, utspelar sig i rymden d\u00e4r de goda, rebellerna med t ex Han Solo, Prinsessan Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (som \u00e4r en robot) m fl, strider mot de onda, Rymdimperiet, med Darth Wader i spetsen. \nBilaga\nLeif Wallin 1996\n\nDet engelska leksaksf\u00f6retaget Palitoy s\u00e5lde Star Wars-figurer p\u00e5 licens fr\u00e5n Kenner Toys, som i sin tur f\u00e5tt r\u00e4ttigheterna fr\u00e5n Lucasfilm Ltd 1977. Filmen Return of the Jedi utkom 1983.\n/Karin Dern 2014",
+                    "Historisk h\u00e4ndelse, person med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig",
+                    "Inventory Sesam 1996-1999:\nPackaging 29 x 15 cm\nFigure H 11 cm\nThe War figure of the Stars, Darth Vader, in original packaging. packaging of black rectangular cardboard with text \u201cSTARWARS/RETURN OF THE/JEDI\u201d and image on Darth Vader. On the right side rectangular transparent plastic case (opened) in which the doll lies. On the back text and picture on 65 pcs the stars' war figures.\nThe doll completely moulded in black plastic, moving legs and arms, in the left arm is a pink laser gun pushed out. Clothed loose long black coat of thin plastic. Marked on the left thigh \u201cc (in ring, copyright labeled) G.F.G.M.I. 1977.\u201d\nLeif Wallin 1996",
+                    "The War of the Stars, Darth Vader",
+                    "Packaging 29 x 15 cm\nFigure H 11 cm\n\n\nThe figure is from the films \u201cThe War of the Stars,\u201d Darth Vader represents the evil Empire. For more info see inv.nr 312.863-312.868. The doll purchased as a complement to the Stj\u00e4rns Krig figures purchased in connection with the 1986 home survey SAMDOK.\nThe series, which is a science fiction, plays out in space where the good ones, the rebels with Han Solo, Princess Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (who is a robot) m fl, contradict the evil ones, the Space empire, with Darth Wader at the forefront. \nAnnex\nLeif Wallin 1996\n\nThe English toy company Palitoy sold Star Wars figures under licence from Kenner Toys, who in turn received the rights from Lucasfilm Ltd in 1977. The film Return of the Jedi appeared in 1983.\nKarin Dern 2014",
+                    "Historical event, person related to the object: War of the Star",
+                    "Inventering Sesam 1996-1999:\nF\u00f6rpackning 29 x 15 cm\nFigur H 11 cm\nStj\u00e4rnornas krig-figur, Darth Vader, i originalf\u00f6rpackning. f\u00f6rpackning av svart rektangul\u00e4r pappskiva med text \"STARWARS / RETURN OF THE / JEDI\" och bild p\u00e5 Darth Vader. P\u00e5 h\u00f6ger sidan rektangul\u00e4rt transparent plastfodral (\u00f6ppnat) i vilken dockan ligger. P\u00e5 baksidan text och bild p\u00e5 65 st stj\u00e4rnornas krig-figurer.\nDockan helt gjuten i svart plast, r\u00f6rliga ben och armar, i v\u00e4nstra armen \u00e4r en rosa laserpistol inskjuten som g\u00e5r att skjuta ut. Ikl\u00e4dd l\u00f6s l\u00e5ng svart kappa av tunn plast. M\u00e4rkt p\u00e5 v\u00e4nster l\u00e5r \"c (i ring, copyright-m\u00e4rkt) G.F.G.M.I. 1977\".\nLeif Wallin 1996",
+                    "Stj\u00e4rnornas krig, Darth Vader",
+                    "F\u00f6rpackning 29 x 15 cm\nFigur H 11 cm\n\n\nFiguren \u00e4r fr\u00e5n filmerna \"Stj\u00e4rnornas Krig\", Darth Vader representerar det onda Kejsard\u00f6met. F\u00f6r mer info se inv.nr 312.863-312.868. Dockan ink\u00f6pt som komplement till Stj\u00e4rnornas Krig-figurer ink\u00f6pta i samband med 1986 \u00e5rs hemunders\u00f6kning SAMDOK.\nSerien, som \u00e4r en science fiction, utspelar sig i rymden d\u00e4r de goda, rebellerna med t ex Han Solo, Prinsessan Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (som \u00e4r en robot) m fl, strider mot de onda, Rymdimperiet, med Darth Wader i spetsen. \nBilaga\nLeif Wallin 1996\n\nDet engelska leksaksf\u00f6retaget Palitoy s\u00e5lde Star Wars-figurer p\u00e5 licens fr\u00e5n Kenner Toys, som i sin tur f\u00e5tt r\u00e4ttigheterna fr\u00e5n Lucasfilm Ltd 1977. Filmen Return of the Jedi utkom 1983.\n/Karin Dern 2014",
+                    "Historisk h\u00e4ndelse, person med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig"
+                ],
+                "dcDescriptionLangAware": {
+                    "sv": [
+                        "Inventering Sesam 1996-1999:\nF\u00f6rpackning 29 x 15 cm\nFigur H 11 cm\nStj\u00e4rnornas krig-figur, Darth Vader, i originalf\u00f6rpackning. f\u00f6rpackning av svart rektangul\u00e4r pappskiva med text \"STARWARS / RETURN OF THE / JEDI\" och bild p\u00e5 Darth Vader. P\u00e5 h\u00f6ger sidan rektangul\u00e4rt transparent plastfodral (\u00f6ppnat) i vilken dockan ligger. P\u00e5 baksidan text och bild p\u00e5 65 st stj\u00e4rnornas krig-figurer.\nDockan helt gjuten i svart plast, r\u00f6rliga ben och armar, i v\u00e4nstra armen \u00e4r en rosa laserpistol inskjuten som g\u00e5r att skjuta ut. Ikl\u00e4dd l\u00f6s l\u00e5ng svart kappa av tunn plast. M\u00e4rkt p\u00e5 v\u00e4nster l\u00e5r \"c (i ring, copyright-m\u00e4rkt) G.F.G.M.I. 1977\".\nLeif Wallin 1996",
+                        "Stj\u00e4rnornas krig, Darth Vader",
+                        "F\u00f6rpackning 29 x 15 cm\nFigur H 11 cm\n\n\nFiguren \u00e4r fr\u00e5n filmerna \"Stj\u00e4rnornas Krig\", Darth Vader representerar det onda Kejsard\u00f6met. F\u00f6r mer info se inv.nr 312.863-312.868. Dockan ink\u00f6pt som komplement till Stj\u00e4rnornas Krig-figurer ink\u00f6pta i samband med 1986 \u00e5rs hemunders\u00f6kning SAMDOK.\nSerien, som \u00e4r en science fiction, utspelar sig i rymden d\u00e4r de goda, rebellerna med t ex Han Solo, Prinsessan Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (som \u00e4r en robot) m fl, strider mot de onda, Rymdimperiet, med Darth Wader i spetsen. \nBilaga\nLeif Wallin 1996\n\nDet engelska leksaksf\u00f6retaget Palitoy s\u00e5lde Star Wars-figurer p\u00e5 licens fr\u00e5n Kenner Toys, som i sin tur f\u00e5tt r\u00e4ttigheterna fr\u00e5n Lucasfilm Ltd 1977. Filmen Return of the Jedi utkom 1983.\n/Karin Dern 2014",
+                        "Historisk h\u00e4ndelse, person med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig"
+                    ],
+                    "def": [
+                        "Inventering Sesam 1996-1999:\nF\u00f6rpackning 29 x 15 cm\nFigur H 11 cm\nStj\u00e4rnornas krig-figur, Darth Vader, i originalf\u00f6rpackning. f\u00f6rpackning av svart rektangul\u00e4r pappskiva med text \"STARWARS / RETURN OF THE / JEDI\" och bild p\u00e5 Darth Vader. P\u00e5 h\u00f6ger sidan rektangul\u00e4rt transparent plastfodral (\u00f6ppnat) i vilken dockan ligger. P\u00e5 baksidan text och bild p\u00e5 65 st stj\u00e4rnornas krig-figurer.\nDockan helt gjuten i svart plast, r\u00f6rliga ben och armar, i v\u00e4nstra armen \u00e4r en rosa laserpistol inskjuten som g\u00e5r att skjuta ut. Ikl\u00e4dd l\u00f6s l\u00e5ng svart kappa av tunn plast. M\u00e4rkt p\u00e5 v\u00e4nster l\u00e5r \"c (i ring, copyright-m\u00e4rkt) G.F.G.M.I. 1977\".\nLeif Wallin 1996",
+                        "Stj\u00e4rnornas krig, Darth Vader",
+                        "F\u00f6rpackning 29 x 15 cm\nFigur H 11 cm\n\n\nFiguren \u00e4r fr\u00e5n filmerna \"Stj\u00e4rnornas Krig\", Darth Vader representerar det onda Kejsard\u00f6met. F\u00f6r mer info se inv.nr 312.863-312.868. Dockan ink\u00f6pt som komplement till Stj\u00e4rnornas Krig-figurer ink\u00f6pta i samband med 1986 \u00e5rs hemunders\u00f6kning SAMDOK.\nSerien, som \u00e4r en science fiction, utspelar sig i rymden d\u00e4r de goda, rebellerna med t ex Han Solo, Prinsessan Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (som \u00e4r en robot) m fl, strider mot de onda, Rymdimperiet, med Darth Wader i spetsen. \nBilaga\nLeif Wallin 1996\n\nDet engelska leksaksf\u00f6retaget Palitoy s\u00e5lde Star Wars-figurer p\u00e5 licens fr\u00e5n Kenner Toys, som i sin tur f\u00e5tt r\u00e4ttigheterna fr\u00e5n Lucasfilm Ltd 1977. Filmen Return of the Jedi utkom 1983.\n/Karin Dern 2014",
+                        "Historisk h\u00e4ndelse, person med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig"
+                    ],
+                    "en": [
+                        "Inventory Sesam 1996-1999:\nPackaging 29 x 15 cm\nFigure H 11 cm\nThe War figure of the Stars, Darth Vader, in original packaging. packaging of black rectangular cardboard with text \u201cSTARWARS/RETURN OF THE/JEDI\u201d and image on Darth Vader. On the right side rectangular transparent plastic case (opened) in which the doll lies. On the back text and picture on 65 pcs the stars' war figures.\nThe doll completely moulded in black plastic, moving legs and arms, in the left arm is a pink laser gun pushed out. Clothed loose long black coat of thin plastic. Marked on the left thigh \u201cc (in ring, copyright labeled) G.F.G.M.I. 1977.\u201d\nLeif Wallin 1996",
+                        "The War of the Stars, Darth Vader",
+                        "Packaging 29 x 15 cm\nFigure H 11 cm\n\n\nThe figure is from the films \u201cThe War of the Stars,\u201d Darth Vader represents the evil Empire. For more info see inv.nr 312.863-312.868. The doll purchased as a complement to the Stj\u00e4rns Krig figures purchased in connection with the 1986 home survey SAMDOK.\nThe series, which is a science fiction, plays out in space where the good ones, the rebels with Han Solo, Princess Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (who is a robot) m fl, contradict the evil ones, the Space empire, with Darth Wader at the forefront. \nAnnex\nLeif Wallin 1996\n\nThe English toy company Palitoy sold Star Wars figures under licence from Kenner Toys, who in turn received the rights from Lucasfilm Ltd in 1977. The film Return of the Jedi appeared in 1983.\nKarin Dern 2014",
+                        "Historical event, person related to the object: War of the Star"
+                    ]
+                },
+                "dcLanguage": [
+                    "swe"
+                ],
+                "dcLanguageLangAware": {
+                    "def": [
+                        "swe"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "def": [
+                        "Docka"
+                    ],
+                    "en": [
+                        "Docka"
+                    ]
+                },
+                "edmConcept": [
+                    "http://data.europeana.eu/concept/2311",
+                    "http://data.europeana.eu/concept/2090",
+                    "http://data.europeana.eu/concept/1766"
+                ],
+                "edmConceptLabel": [
+                    {
+                        "def": "Puppe"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "Metall"
+                    },
+                    {
+                        "def": "Nukke"
+                    },
+                    {
+                        "def": "Paperi"
+                    },
+                    {
+                        "def": "Metalli"
+                    },
+                    {
+                        "def": "\u041a\u0443\u043a\u043b\u0430"
+                    },
+                    {
+                        "def": "\u0411\u0443\u043c\u0430\u0433\u0430"
+                    },
+                    {
+                        "def": "\u041c\u0435\u0442\u0430\u043b\u043b"
+                    },
+                    {
+                        "def": "Boneca"
+                    },
+                    {
+                        "def": "Papel"
+                    },
+                    {
+                        "def": "Metal"
+                    },
+                    {
+                        "def": "\u041a\u0443\u043a\u043b\u0430"
+                    },
+                    {
+                        "def": "\u0425\u0430\u0440\u0442\u0438\u044f"
+                    },
+                    {
+                        "def": "\u041c\u0435\u0442\u0430\u043b"
+                    },
+                    {
+                        "def": "L\u0117l\u0117"
+                    },
+                    {
+                        "def": "Popierius"
+                    },
+                    {
+                        "def": "Metalai"
+                    },
+                    {
+                        "def": "Lutka"
+                    },
+                    {
+                        "def": "Papir"
+                    },
+                    {
+                        "def": "Kovine"
+                    },
+                    {
+                        "def": "Lelle"
+                    },
+                    {
+                        "def": "Pap\u012brs"
+                    },
+                    {
+                        "def": "Met\u0101ls"
+                    },
+                    {
+                        "def": "Poup\u00e9e"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "M\u00e9tal"
+                    },
+                    {
+                        "def": "J\u00e1t\u00e9k baba"
+                    },
+                    {
+                        "def": "Pap\u00edr"
+                    },
+                    {
+                        "def": "F\u00e9m"
+                    },
+                    {
+                        "def": "Lutka"
+                    },
+                    {
+                        "def": "Papir"
+                    },
+                    {
+                        "def": "Kovina"
+                    },
+                    {
+                        "def": "B\u00e1b\u00f3g"
+                    },
+                    {
+                        "def": "P\u00e1ip\u00e9ar"
+                    },
+                    {
+                        "def": "Miotal"
+                    },
+                    {
+                        "def": "Ninot"
+                    },
+                    {
+                        "def": "Paper"
+                    },
+                    {
+                        "def": "Metall"
+                    },
+                    {
+                        "def": "Docka"
+                    },
+                    {
+                        "def": "Papper"
+                    },
+                    {
+                        "def": "Metall"
+                    },
+                    {
+                        "def": "\u039a\u03bf\u03cd\u03ba\u03bb\u03b1"
+                    },
+                    {
+                        "def": "\u03a7\u03b1\u03c1\u03c4\u03af"
+                    },
+                    {
+                        "def": "\u039c\u03ad\u03c4\u03b1\u03bb\u03bb\u03bf"
+                    },
+                    {
+                        "def": "Doll"
+                    },
+                    {
+                        "def": "Paper"
+                    },
+                    {
+                        "def": "Metal"
+                    },
+                    {
+                        "def": "Bambola"
+                    },
+                    {
+                        "def": "Carta"
+                    },
+                    {
+                        "def": "Metallo"
+                    },
+                    {
+                        "def": "Mu\u00f1eca"
+                    },
+                    {
+                        "def": "Papel"
+                    },
+                    {
+                        "def": "Metal"
+                    },
+                    {
+                        "def": "Nukk"
+                    },
+                    {
+                        "def": "Paber"
+                    },
+                    {
+                        "def": "Metall"
+                    },
+                    {
+                        "def": "Panenka"
+                    },
+                    {
+                        "def": "Pap\u00edr"
+                    },
+                    {
+                        "def": "Kov"
+                    },
+                    {
+                        "def": "Panpina"
+                    },
+                    {
+                        "def": "Paper"
+                    },
+                    {
+                        "def": "Metal"
+                    },
+                    {
+                        "def": "Lalka"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "Metal"
+                    },
+                    {
+                        "def": "P\u0103pu\u0219\u0103"
+                    },
+                    {
+                        "def": "H\u00e2rtie"
+                    },
+                    {
+                        "def": "Metal"
+                    },
+                    {
+                        "def": "Dukke"
+                    },
+                    {
+                        "def": "Papir"
+                    },
+                    {
+                        "def": "Metal"
+                    },
+                    {
+                        "def": "Pop"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "Metaal"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "Kov"
+                    },
+                    {
+                        "def": "Karta"
+                    }
+                ],
+                "edmConceptPrefLabelLangAware": {
+                    "de": [
+                        "Papier",
+                        "Puppe",
+                        "Metall"
+                    ],
+                    "fi": [
+                        "Paperi",
+                        "Metalli",
+                        "Nukke"
+                    ],
+                    "ru": [
+                        "\u0411\u0443\u043c\u0430\u0433\u0430",
+                        "\u041c\u0435\u0442\u0430\u043b\u043b",
+                        "\u041a\u0443\u043a\u043b\u0430"
+                    ],
+                    "pt": [
+                        "Papel",
+                        "Metal",
+                        "Boneca"
+                    ],
+                    "bg": [
+                        "\u0425\u0430\u0440\u0442\u0438\u044f",
+                        "\u041c\u0435\u0442\u0430\u043b",
+                        "\u041a\u0443\u043a\u043b\u0430"
+                    ],
+                    "lt": [
+                        "L\u0117l\u0117",
+                        "Popierius",
+                        "Metalai"
+                    ],
+                    "hr": [
+                        "Kovine",
+                        "Lutka",
+                        "Papir"
+                    ],
+                    "lv": [
+                        "Met\u0101ls",
+                        "Lelle",
+                        "Pap\u012brs"
+                    ],
+                    "fr": [
+                        "Poup\u00e9e",
+                        "Papier",
+                        "M\u00e9tal"
+                    ],
+                    "hu": [
+                        "Pap\u00edr",
+                        "J\u00e1t\u00e9k baba",
+                        "F\u00e9m"
+                    ],
+                    "sk": [
+                        "Kov",
+                        "Papier"
+                    ],
+                    "sl": [
+                        "Lutka",
+                        "Kovina",
+                        "Papir"
+                    ],
+                    "ga": [
+                        "P\u00e1ip\u00e9ar",
+                        "Miotal",
+                        "B\u00e1b\u00f3g"
+                    ],
+                    "ca": [
+                        "Ninot",
+                        "Paper",
+                        "Metall"
+                    ],
+                    "sv": [
+                        "Papper",
+                        "Docka",
+                        "Metall"
+                    ],
+                    "el": [
+                        "\u03a7\u03b1\u03c1\u03c4\u03af",
+                        "\u039c\u03ad\u03c4\u03b1\u03bb\u03bb\u03bf",
+                        "\u039a\u03bf\u03cd\u03ba\u03bb\u03b1"
+                    ],
+                    "mt": [
+                        "Karta"
+                    ],
+                    "en": [
+                        "Paper",
+                        "Doll",
+                        "Metal"
+                    ],
+                    "it": [
+                        "Metallo",
+                        "Carta",
+                        "Bambola"
+                    ],
+                    "es": [
+                        "Papel",
+                        "Metal",
+                        "Mu\u00f1eca"
+                    ],
+                    "et": [
+                        "Nukk",
+                        "Paber",
+                        "Metall"
+                    ],
+                    "cs": [
+                        "Pap\u00edr",
+                        "Kov",
+                        "Panenka"
+                    ],
+                    "eu": [
+                        "Panpina",
+                        "Paper",
+                        "Metal"
+                    ],
+                    "pl": [
+                        "Lalka",
+                        "Papier",
+                        "Metal"
+                    ],
+                    "ro": [
+                        "P\u0103pu\u0219\u0103",
+                        "H\u00e2rtie",
+                        "Metal"
+                    ],
+                    "da": [
+                        "Dukke",
+                        "Metal",
+                        "Papir"
+                    ],
+                    "nl": [
+                        "Pop",
+                        "Papier",
+                        "Metaal"
+                    ]
+                },
+                "edmDatasetName": [
+                    "91625_Ag_SE_SwedishNationalHeritage_no_obj"
+                ],
+                "edmIsShownAt": [
+                    "http://digitaltmuseum.se/011023816368"
+                ],
+                "edmIsShownBy": [
+                    "http://mm.dimu.org/image/012s8YerMryM?dimension=1200x1200"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmm.dimu.org%2Fimage%2F012s8YerMryM%3Fdimension%3D1200x1200&type=IMAGE"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "1977-01-01/1983-01-01"
+                    },
+                    {
+                        "def": "1977/1983"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "1977-01-01/1983-01-01",
+                        "1977/1983"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "91625_Ag_SE_SwedishNationalHeritage_no_obj"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/91625/nomu_object_NM0312941_?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/91625/nomu_object_NM0312941_",
+                "index": 0,
+                "language": [
+                    "sv"
+                ],
+                "link": "https://api.europeana.eu/record/91625/nomu_object_NM0312941_.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "Swedish Open Cultural Heritage"
+                ],
+                "rights": [
+                    "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+                ],
+                "score": 23.691425,
+                "timestamp": 1688611661897,
+                "timestamp_created": "2019-04-27T19:34:38.558Z",
+                "timestamp_created_epoch": 1556393678558,
+                "timestamp_update": "2019-04-27T19:34:38.558Z",
+                "timestamp_update_epoch": 1556393678558,
+                "title": [
+                    "Docka",
+                    "Docka"
+                ],
+                "type": "IMAGE",
+                "ugc": [
+                    false
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "Sweden"
+                ],
+                "dataProvider": [
+                    "Nordic Museum Foundation"
+                ],
+                "dcCreator": [
+                    "Lucas, Film",
+                    "Lucas, Film"
+                ],
+                "dcCreatorLangAware": {
+                    "def": [
+                        "Lucas, Film"
+                    ],
+                    "en": [
+                        "Lucas, Film"
+                    ]
+                },
+                "dcDescription": [
+                    "Inventering Sesam 1996-1999:\nRymdskepp i gr\u00e5 plast. Triangelformad, mitt p\u00e5 f\u00f6rarhytt med \u00f6ppningsbar lucka under vilken det finns 2 s\u00e4ten. (Tv\u00e5 Stj\u00e4rnornas krig-figurer kan placeras d\u00e4r.)  P\u00e5 var sida en l\u00e5ng laserkanon, den h\u00f6gra l\u00f6s. Bakom f\u00f6rarhytten m\u00f6rkgr\u00e5tt vridbart harpungev\u00e4r med l\u00f6s pil, sn\u00f6re och en gr\u00e5 kub (vilken troligen har kunnat f\u00e4stas p\u00e5 batteriluckan). P\u00e5 flera st\u00e4llen p\u00e5klistrade originaletiketter i gr\u00e5tt och r\u00f6tt/vitt. P\u00e5 bakre h\u00f6gra sidan plats f\u00f6r 2 st 1,5 volts batterier (som har gjort att laserkanonerna har lyst och rymdskeppet l\u00e5tit), luckan till batteriutrymmet saknas. Under skeppet skjutbar lucka med ett utf\u00e4llbart gr\u00e5tt st\u00f6d. (Luckan g\u00e5r nu ej att st\u00e4nga, st\u00f6det l\u00f6st.) Undertill m\u00e4rkt \"c (i ring, copyrightm\u00e4rke)  LUCAS FILM LTD (LFL) 1980 KENNER PRODUCTIONS CINCINATI, OHIO 45202 No 39610\".\nRymdskeppet \u00e4r tillverkat efter f\u00f6rebild fr\u00e5n biofilmen och TV-serien \"Stj\u00e4rnornas Krig\" som kom till Sverige fr\u00e5n USA i slutet av 1970-talet. D\u00e4r heter detta rymdskepp \"Snowspeed\". Serien, som \u00e4r en science fiction, utspelar sig i rymden d\u00e4r de goda, rebellerna med t ex Han Solo, Prinsessan Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (som \u00e4r en robot) m fl, strider mot de onda, Rymdimperiet, med Darth Wader i spetsen. \nSe \u00e4ven inv.nr. 312.864-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996",
+                    "Inventory Sesam 1996-1999:\nSpace Ships in grey plastic. Triangle shaped, in the middle of a driver\u2019s cab with opening slot under which there are 2 seats. The two stars' war figures can be placed there.) On each side a long laser cannon, the right loose. Behind the driver\u2019s cab dark grey swivel rifle with loose arrow, string and a gray cube (which could probably have been attached to the battery lid). In several places, original labels applied in grey and red/white. On the back right side place for 2 pcs 1.5 volts batteries (which have made the laser cannons have shone and the spacecraft sounded), the gap to the battery compartment is missing. Under the ship a sliding hatch with a precipitable grey support. (The Luck is now unable to close, the support resolved.) Underneath marked \u201cc (in ring, copyright mark) LUCAS FILM LTD (LFL) 1980 KENNER PRODUCTIONS CINCINATI, OHIO 45202 No 39610.\u201d\nThe spacecraft is made by a model from the cinema and TV series \u201cThe War of the Stars\u201d which came to Sweden from the USA in the late 1970s. This spacecraft is called \u201cSnowspeed.\u201d The series, which is a science fiction, plays out in space where the good ones, the rebels with Han Solo, Princess Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (who is a robot) m fl, contradict the evil ones, the Space empire, with Darth Wader at the forefront. \nSee also inv.nr. 312.864-312.868 and 312.941.\nHas belonged to Stefan St\u00e5lg\u00e4rde, Jordbro. Purchased in connection with the 1986 home survey, SAMDOK\u2019s home pool.\nLeif Wallin 1996",
+                    "Inventering Sesam 1996-1999:\nRymdskepp i gr\u00e5 plast. Triangelformad, mitt p\u00e5 f\u00f6rarhytt med \u00f6ppningsbar lucka under vilken det finns 2 s\u00e4ten. (Tv\u00e5 Stj\u00e4rnornas krig-figurer kan placeras d\u00e4r.)  P\u00e5 var sida en l\u00e5ng laserkanon, den h\u00f6gra l\u00f6s. Bakom f\u00f6rarhytten m\u00f6rkgr\u00e5tt vridbart harpungev\u00e4r med l\u00f6s pil, sn\u00f6re och en gr\u00e5 kub (vilken troligen har kunnat f\u00e4stas p\u00e5 batteriluckan). P\u00e5 flera st\u00e4llen p\u00e5klistrade originaletiketter i gr\u00e5tt och r\u00f6tt/vitt. P\u00e5 bakre h\u00f6gra sidan plats f\u00f6r 2 st 1,5 volts batterier (som har gjort att laserkanonerna har lyst och rymdskeppet l\u00e5tit), luckan till batteriutrymmet saknas. Under skeppet skjutbar lucka med ett utf\u00e4llbart gr\u00e5tt st\u00f6d. (Luckan g\u00e5r nu ej att st\u00e4nga, st\u00f6det l\u00f6st.) Undertill m\u00e4rkt \"c (i ring, copyrightm\u00e4rke)  LUCAS FILM LTD (LFL) 1980 KENNER PRODUCTIONS CINCINATI, OHIO 45202 No 39610\".\nRymdskeppet \u00e4r tillverkat efter f\u00f6rebild fr\u00e5n biofilmen och TV-serien \"Stj\u00e4rnornas Krig\" som kom till Sverige fr\u00e5n USA i slutet av 1970-talet. D\u00e4r heter detta rymdskepp \"Snowspeed\". Serien, som \u00e4r en science fiction, utspelar sig i rymden d\u00e4r de goda, rebellerna med t ex Han Solo, Prinsessan Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (som \u00e4r en robot) m fl, strider mot de onda, Rymdimperiet, med Darth Wader i spetsen. \nSe \u00e4ven inv.nr. 312.864-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996"
+                ],
+                "dcDescriptionLangAware": {
+                    "sv": [
+                        "Inventering Sesam 1996-1999:\nRymdskepp i gr\u00e5 plast. Triangelformad, mitt p\u00e5 f\u00f6rarhytt med \u00f6ppningsbar lucka under vilken det finns 2 s\u00e4ten. (Tv\u00e5 Stj\u00e4rnornas krig-figurer kan placeras d\u00e4r.)  P\u00e5 var sida en l\u00e5ng laserkanon, den h\u00f6gra l\u00f6s. Bakom f\u00f6rarhytten m\u00f6rkgr\u00e5tt vridbart harpungev\u00e4r med l\u00f6s pil, sn\u00f6re och en gr\u00e5 kub (vilken troligen har kunnat f\u00e4stas p\u00e5 batteriluckan). P\u00e5 flera st\u00e4llen p\u00e5klistrade originaletiketter i gr\u00e5tt och r\u00f6tt/vitt. P\u00e5 bakre h\u00f6gra sidan plats f\u00f6r 2 st 1,5 volts batterier (som har gjort att laserkanonerna har lyst och rymdskeppet l\u00e5tit), luckan till batteriutrymmet saknas. Under skeppet skjutbar lucka med ett utf\u00e4llbart gr\u00e5tt st\u00f6d. (Luckan g\u00e5r nu ej att st\u00e4nga, st\u00f6det l\u00f6st.) Undertill m\u00e4rkt \"c (i ring, copyrightm\u00e4rke)  LUCAS FILM LTD (LFL) 1980 KENNER PRODUCTIONS CINCINATI, OHIO 45202 No 39610\".\nRymdskeppet \u00e4r tillverkat efter f\u00f6rebild fr\u00e5n biofilmen och TV-serien \"Stj\u00e4rnornas Krig\" som kom till Sverige fr\u00e5n USA i slutet av 1970-talet. D\u00e4r heter detta rymdskepp \"Snowspeed\". Serien, som \u00e4r en science fiction, utspelar sig i rymden d\u00e4r de goda, rebellerna med t ex Han Solo, Prinsessan Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (som \u00e4r en robot) m fl, strider mot de onda, Rymdimperiet, med Darth Wader i spetsen. \nSe \u00e4ven inv.nr. 312.864-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996"
+                    ],
+                    "def": [
+                        "Inventering Sesam 1996-1999:\nRymdskepp i gr\u00e5 plast. Triangelformad, mitt p\u00e5 f\u00f6rarhytt med \u00f6ppningsbar lucka under vilken det finns 2 s\u00e4ten. (Tv\u00e5 Stj\u00e4rnornas krig-figurer kan placeras d\u00e4r.)  P\u00e5 var sida en l\u00e5ng laserkanon, den h\u00f6gra l\u00f6s. Bakom f\u00f6rarhytten m\u00f6rkgr\u00e5tt vridbart harpungev\u00e4r med l\u00f6s pil, sn\u00f6re och en gr\u00e5 kub (vilken troligen har kunnat f\u00e4stas p\u00e5 batteriluckan). P\u00e5 flera st\u00e4llen p\u00e5klistrade originaletiketter i gr\u00e5tt och r\u00f6tt/vitt. P\u00e5 bakre h\u00f6gra sidan plats f\u00f6r 2 st 1,5 volts batterier (som har gjort att laserkanonerna har lyst och rymdskeppet l\u00e5tit), luckan till batteriutrymmet saknas. Under skeppet skjutbar lucka med ett utf\u00e4llbart gr\u00e5tt st\u00f6d. (Luckan g\u00e5r nu ej att st\u00e4nga, st\u00f6det l\u00f6st.) Undertill m\u00e4rkt \"c (i ring, copyrightm\u00e4rke)  LUCAS FILM LTD (LFL) 1980 KENNER PRODUCTIONS CINCINATI, OHIO 45202 No 39610\".\nRymdskeppet \u00e4r tillverkat efter f\u00f6rebild fr\u00e5n biofilmen och TV-serien \"Stj\u00e4rnornas Krig\" som kom till Sverige fr\u00e5n USA i slutet av 1970-talet. D\u00e4r heter detta rymdskepp \"Snowspeed\". Serien, som \u00e4r en science fiction, utspelar sig i rymden d\u00e4r de goda, rebellerna med t ex Han Solo, Prinsessan Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (som \u00e4r en robot) m fl, strider mot de onda, Rymdimperiet, med Darth Wader i spetsen. \nSe \u00e4ven inv.nr. 312.864-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996"
+                    ],
+                    "en": [
+                        "Inventory Sesam 1996-1999:\nSpace Ships in grey plastic. Triangle shaped, in the middle of a driver\u2019s cab with opening slot under which there are 2 seats. The two stars' war figures can be placed there.) On each side a long laser cannon, the right loose. Behind the driver\u2019s cab dark grey swivel rifle with loose arrow, string and a gray cube (which could probably have been attached to the battery lid). In several places, original labels applied in grey and red/white. On the back right side place for 2 pcs 1.5 volts batteries (which have made the laser cannons have shone and the spacecraft sounded), the gap to the battery compartment is missing. Under the ship a sliding hatch with a precipitable grey support. (The Luck is now unable to close, the support resolved.) Underneath marked \u201cc (in ring, copyright mark) LUCAS FILM LTD (LFL) 1980 KENNER PRODUCTIONS CINCINATI, OHIO 45202 No 39610.\u201d\nThe spacecraft is made by a model from the cinema and TV series \u201cThe War of the Stars\u201d which came to Sweden from the USA in the late 1970s. This spacecraft is called \u201cSnowspeed.\u201d The series, which is a science fiction, plays out in space where the good ones, the rebels with Han Solo, Princess Leia Organa, Luke Skywalker, Chewbacka the Wookie, R2 D2 (who is a robot) m fl, contradict the evil ones, the Space empire, with Darth Wader at the forefront. \nSee also inv.nr. 312.864-312.868 and 312.941.\nHas belonged to Stefan St\u00e5lg\u00e4rde, Jordbro. Purchased in connection with the 1986 home survey, SAMDOK\u2019s home pool.\nLeif Wallin 1996"
+                    ]
+                },
+                "dcLanguage": [
+                    "swe"
+                ],
+                "dcLanguageLangAware": {
+                    "def": [
+                        "swe"
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "sv": [
+                        "Rymdfarkost"
+                    ],
+                    "def": [
+                        "Rymdfarkost"
+                    ],
+                    "en": [
+                        "Spacecraft"
+                    ]
+                },
+                "edmConcept": [
+                    "http://data.europeana.eu/concept/3345"
+                ],
+                "edmConceptLabel": [
+                    {
+                        "def": "Raumschiff"
+                    },
+                    {
+                        "def": "Avaruusalus"
+                    },
+                    {
+                        "def": "\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u043f\u043f\u0430\u0440\u0430\u0442"
+                    },
+                    {
+                        "def": "Nave espacial"
+                    },
+                    {
+                        "def": "\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438 \u0430\u043f\u0430\u0440\u0430\u0442"
+                    },
+                    {
+                        "def": "Erdv\u0117laivis"
+                    },
+                    {
+                        "def": "Kosmosa ku\u0123is"
+                    },
+                    {
+                        "def": "Svemirske letjelice"
+                    },
+                    {
+                        "def": "V\u00e9hicule spatial"
+                    },
+                    {
+                        "def": "\u0170reszk\u00f6z"
+                    },
+                    {
+                        "def": "Kozmick\u00e1 lo\u010f"
+                    },
+                    {
+                        "def": "Vesoljsko plovilo"
+                    },
+                    {
+                        "def": "Sp\u00e1s\u00e1rthach"
+                    },
+                    {
+                        "def": "Nau espacial"
+                    },
+                    {
+                        "def": "Rymdfarkost"
+                    },
+                    {
+                        "def": "\u0394\u03b9\u03b1\u03c3\u03c4\u03b7\u03bc\u03cc\u03c0\u03bb\u03bf\u03b9\u03bf"
+                    },
+                    {
+                        "def": "Spacecraft"
+                    },
+                    {
+                        "def": "Veicolo spaziale"
+                    },
+                    {
+                        "def": "Nave espacial"
+                    },
+                    {
+                        "def": "Kosmoseaparaat"
+                    },
+                    {
+                        "def": "Espazio ontzi"
+                    },
+                    {
+                        "def": "Kosmick\u00e1 lo\u010f"
+                    },
+                    {
+                        "def": "Statek kosmiczny"
+                    },
+                    {
+                        "def": "Nav\u0103 spa\u021bial\u0103"
+                    },
+                    {
+                        "def": "Rumfart\u00f8j"
+                    },
+                    {
+                        "def": "Ruimtevaartuig"
+                    }
+                ],
+                "edmConceptPrefLabelLangAware": {
+                    "de": [
+                        "Raumschiff"
+                    ],
+                    "fi": [
+                        "Avaruusalus"
+                    ],
+                    "ru": [
+                        "\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u043f\u043f\u0430\u0440\u0430\u0442"
+                    ],
+                    "pt": [
+                        "Nave espacial"
+                    ],
+                    "bg": [
+                        "\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438 \u0430\u043f\u0430\u0440\u0430\u0442"
+                    ],
+                    "lt": [
+                        "Erdv\u0117laivis"
+                    ],
+                    "lv": [
+                        "Kosmosa ku\u0123is"
+                    ],
+                    "hr": [
+                        "Svemirske letjelice"
+                    ],
+                    "fr": [
+                        "V\u00e9hicule spatial"
+                    ],
+                    "hu": [
+                        "\u0170reszk\u00f6z"
+                    ],
+                    "sk": [
+                        "Kozmick\u00e1 lo\u010f"
+                    ],
+                    "sl": [
+                        "Vesoljsko plovilo"
+                    ],
+                    "ga": [
+                        "Sp\u00e1s\u00e1rthach"
+                    ],
+                    "ca": [
+                        "Nau espacial"
+                    ],
+                    "sv": [
+                        "Rymdfarkost"
+                    ],
+                    "el": [
+                        "\u0394\u03b9\u03b1\u03c3\u03c4\u03b7\u03bc\u03cc\u03c0\u03bb\u03bf\u03b9\u03bf"
+                    ],
+                    "en": [
+                        "Spacecraft"
+                    ],
+                    "it": [
+                        "Veicolo spaziale"
+                    ],
+                    "es": [
+                        "Nave espacial"
+                    ],
+                    "et": [
+                        "Kosmoseaparaat"
+                    ],
+                    "eu": [
+                        "Espazio ontzi"
+                    ],
+                    "cs": [
+                        "Kosmick\u00e1 lo\u010f"
+                    ],
+                    "pl": [
+                        "Statek kosmiczny"
+                    ],
+                    "ro": [
+                        "Nav\u0103 spa\u021bial\u0103"
+                    ],
+                    "da": [
+                        "Rumfart\u00f8j"
+                    ],
+                    "nl": [
+                        "Ruimtevaartuig"
+                    ]
+                },
+                "edmDatasetName": [
+                    "91625_Ag_SE_SwedishNationalHeritage_no_obj"
+                ],
+                "edmIsShownAt": [
+                    "http://digitaltmuseum.se/011023816290"
+                ],
+                "edmIsShownBy": [
+                    "http://mm.dimu.org/image/012s8YerMrk4?dimension=1200x1200"
+                ],
+                "edmPlaceAltLabel": [
+                    {
+                        "def": "K\u00f6nigreich Schweden"
+                    },
+                    {
+                        "def": "SE"
+                    },
+                    {
+                        "def": "SWE"
+                    },
+                    {
+                        "def": "Konungariket Sverige"
+                    },
+                    {
+                        "def": "Kungariket Sverige"
+                    },
+                    {
+                        "def": "Kungad\u00f6met Sverige"
+                    },
+                    {
+                        "def": "SE"
+                    },
+                    {
+                        "def": "SWE"
+                    },
+                    {
+                        "def": "Konungad\u00f6met Sverige"
+                    },
+                    {
+                        "def": "SE-D"
+                    },
+                    {
+                        "def": "S\u00f6rmlands l\u00e4n"
+                    },
+                    {
+                        "def": "S\u00f6dermanland l\u00e4n"
+                    },
+                    {
+                        "def": "Nyk\u00f6pings l\u00e4n"
+                    },
+                    {
+                        "def": "Sverige"
+                    },
+                    {
+                        "def": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f"
+                    },
+                    {
+                        "def": "\u041b\u0435\u043d \u0421\u0451\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
+                    },
+                    {
+                        "def": "\u041b\u0435\u043d \u041d\u044e\u0447\u0435\u043f\u0438\u043d\u0433"
+                    },
+                    {
+                        "def": "\u041b\u0435\u043d \u0421\u0435\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
+                    },
+                    {
+                        "def": "\u041b\u0435\u043d \u041d\u044e\u0447\u0451\u043f\u0438\u043d\u0433"
+                    },
+                    {
+                        "def": "\u0417\u044e\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u043b\u0435\u043d"
+                    },
+                    {
+                        "def": "Ruotsin kuningaskunta"
+                    },
+                    {
+                        "def": "S\u00f6dermandin l\u00e4\u00e4ni"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    },
+                    {
+                        "def": "S\u00f6rmlands l\u00e4n"
+                    },
+                    {
+                        "def": "S\u00f6rmlandin l\u00e4\u00e4ni"
+                    },
+                    {
+                        "def": "S\u00f6dermanlannin l\u00e4\u00e4ni"
+                    },
+                    {
+                        "def": "\u041a\u0440\u0430\u043b\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f"
+                    },
+                    {
+                        "def": "Renju tal-I\u017cvezja"
+                    },
+                    {
+                        "def": "L-I\u017cvezja"
+                    },
+                    {
+                        "def": "\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1\u03c2"
+                    },
+                    {
+                        "def": "Kingdom of Sweden"
+                    },
+                    {
+                        "def": "SE"
+                    },
+                    {
+                        "def": "se"
+                    },
+                    {
+                        "def": "SWE"
+                    },
+                    {
+                        "def": "Sverige"
+                    },
+                    {
+                        "def": "Konungariket Sverige"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    },
+                    {
+                        "def": "Kraljevina \u0160vedska"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    },
+                    {
+                        "def": "Sverige"
+                    },
+                    {
+                        "def": "Konungariket Sverige"
+                    },
+                    {
+                        "def": "SE"
+                    },
+                    {
+                        "def": "Royaume de Su\u00e8de"
+                    },
+                    {
+                        "def": "D\u00e9partement de S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Comte de Sodermanland"
+                    },
+                    {
+                        "def": "Sv\u00e9d Kir\u00e1lys\u00e1g"
+                    },
+                    {
+                        "def": "Reino de Suecia"
+                    },
+                    {
+                        "def": "Provincia de Sodermanland"
+                    },
+                    {
+                        "def": "Condado de S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Sodermanland"
+                    },
+                    {
+                        "def": "\u0160v\u00e9dske kr\u00e1\u013eovstvo"
+                    },
+                    {
+                        "def": "Kr\u00f3lestwo Szwecji"
+                    },
+                    {
+                        "def": "Kongeriget Sverige"
+                    },
+                    {
+                        "def": "SE"
+                    },
+                    {
+                        "def": "SWE"
+                    },
+                    {
+                        "def": "S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Sodermanlands lan"
+                    },
+                    {
+                        "def": "Regne de Su\u00e8cia"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands"
+                    },
+                    {
+                        "def": "Sodermanlands"
+                    },
+                    {
+                        "def": "Condado de S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Sodermanlands lan"
+                    }
+                ],
+                "edmPlaceAltLabelLangAware": {
+                    "de": [
+                        "K\u00f6nigreich Schweden",
+                        "SE",
+                        "SWE"
+                    ],
+                    "sv": [
+                        "Konungariket Sverige",
+                        "Kungariket Sverige",
+                        "Kungad\u00f6met Sverige",
+                        "SE",
+                        "SWE",
+                        "Konungad\u00f6met Sverige",
+                        "SE-D",
+                        "S\u00f6rmlands l\u00e4n",
+                        "S\u00f6dermanland l\u00e4n",
+                        "Nyk\u00f6pings l\u00e4n"
+                    ],
+                    "ru": [
+                        "Sverige",
+                        "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f",
+                        "\u041b\u0435\u043d \u0421\u0451\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434",
+                        "\u041b\u0435\u043d \u041d\u044e\u0447\u0435\u043f\u0438\u043d\u0433",
+                        "\u041b\u0435\u043d \u0421\u0435\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434",
+                        "\u041b\u0435\u043d \u041d\u044e\u0447\u0451\u043f\u0438\u043d\u0433",
+                        "\u0417\u044e\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u043b\u0435\u043d"
+                    ],
+                    "fi": [
+                        "Ruotsin kuningaskunta",
+                        "S\u00f6dermandin l\u00e4\u00e4ni",
+                        "S\u00f6dermanlands l\u00e4n",
+                        "S\u00f6rmlands l\u00e4n",
+                        "S\u00f6rmlandin l\u00e4\u00e4ni",
+                        "S\u00f6dermanlannin l\u00e4\u00e4ni"
+                    ],
+                    "pt": [
+                        "S\u00f6dermanlands",
+                        "Sodermanlands",
+                        "Condado de S\u00f6dermanland"
+                    ],
+                    "bg": [
+                        "\u041a\u0440\u0430\u043b\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f"
+                    ],
+                    "mt": [
+                        "Renju tal-I\u017cvezja",
+                        "L-I\u017cvezja"
+                    ],
+                    "el": [
+                        "\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1\u03c2"
+                    ],
+                    "en": [
+                        "Kingdom of Sweden",
+                        "SE",
+                        "se",
+                        "SWE",
+                        "Sverige",
+                        "Konungariket Sverige",
+                        "S\u00f6dermanlands l\u00e4n"
+                    ],
+                    "hr": [
+                        "Kraljevina \u0160vedska",
+                        "S\u00f6dermanlands l\u00e4n"
+                    ],
+                    "it": [
+                        "Sverige",
+                        "Konungariket Sverige"
+                    ],
+                    "fr": [
+                        "SE",
+                        "Royaume de Su\u00e8de",
+                        "D\u00e9partement de S\u00f6dermanland",
+                        "Comte de Sodermanland"
+                    ],
+                    "hu": [
+                        "Sv\u00e9d Kir\u00e1lys\u00e1g"
+                    ],
+                    "es": [
+                        "Reino de Suecia",
+                        "Provincia de Sodermanland",
+                        "Condado de S\u00f6dermanland",
+                        "Sodermanland"
+                    ],
+                    "sk": [
+                        "\u0160v\u00e9dske kr\u00e1\u013eovstvo"
+                    ],
+                    "pl": [
+                        "Kr\u00f3lestwo Szwecji"
+                    ],
+                    "da": [
+                        "Kongeriget Sverige"
+                    ],
+                    "ro": [
+                        "Sodermanlands lan"
+                    ],
+                    "nl": [
+                        "SE",
+                        "SWE",
+                        "S\u00f6dermanland",
+                        "Sodermanlands lan"
+                    ],
+                    "ca": [
+                        "Regne de Su\u00e8cia"
+                    ]
+                },
+                "edmPlaceLabel": [
+                    {
+                        "def": "Schweden"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    },
+                    {
+                        "def": "Ruotsi"
+                    },
+                    {
+                        "def": "S\u00f6dermanlandin l\u00e4\u00e4ni"
+                    },
+                    {
+                        "def": "\u0428\u0432\u0435\u0446\u0438\u044f"
+                    },
+                    {
+                        "def": "\u0421\u0451\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
+                    },
+                    {
+                        "def": "Su\u00e9cia"
+                    },
+                    {
+                        "def": "Condado da S\u00f6dermanland"
+                    },
+                    {
+                        "def": "\u0428\u0432\u0435\u0446\u0438\u044f"
+                    },
+                    {
+                        "def": "\u041b\u0435\u043d \u0421\u044c\u043e\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
+                    },
+                    {
+                        "def": "\u0160vedija"
+                    },
+                    {
+                        "def": "Siodermanlandas l\u0117nas"
+                    },
+                    {
+                        "def": "\u0160vedska"
+                    },
+                    {
+                        "def": "\u017dupanija S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Zviedrija"
+                    },
+                    {
+                        "def": "S\u0113dermanlandes l\u0113ne"
+                    },
+                    {
+                        "def": "Su\u00e8de"
+                    },
+                    {
+                        "def": "S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Sv\u00e9dorsz\u00e1g"
+                    },
+                    {
+                        "def": "S\u00f6dermanland megye"
+                    },
+                    {
+                        "def": "\u0160v\u00e9dsko"
+                    },
+                    {
+                        "def": "\u0160vedska"
+                    },
+                    {
+                        "def": "An tSualainn"
+                    },
+                    {
+                        "def": "Contae S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Su\u00e8cia"
+                    },
+                    {
+                        "def": "Comtat de S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Sverige"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    },
+                    {
+                        "def": "\u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1"
+                    },
+                    {
+                        "def": "\u03a3\u03bf\u03bd\u03c4\u03b5\u03c1\u03bc\u03b1\u03bd\u03bb\u03ac\u03bd\u03c4"
+                    },
+                    {
+                        "def": "\u017bvezja"
+                    },
+                    {
+                        "def": "Sweden"
+                    },
+                    {
+                        "def": "S\u00f6dermanland County"
+                    },
+                    {
+                        "def": "Svezia"
+                    },
+                    {
+                        "def": "Contea di S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Suecia"
+                    },
+                    {
+                        "def": "Provincia de S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Rootsi"
+                    },
+                    {
+                        "def": "S\u00f6dermanlandi l\u00e4\u00e4n"
+                    },
+                    {
+                        "def": "\u0160v\u00e9dsko"
+                    },
+                    {
+                        "def": "S\u00f6dermanland"
+                    },
+                    {
+                        "def": "Suedia"
+                    },
+                    {
+                        "def": "S\u00f6dermanlandeko konderria"
+                    },
+                    {
+                        "def": "Szwecja"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    },
+                    {
+                        "def": "Sverige"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    },
+                    {
+                        "def": "Suedia"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    },
+                    {
+                        "def": "Zweden"
+                    },
+                    {
+                        "def": "S\u00f6dermanlands l\u00e4n"
+                    }
+                ],
+                "edmPlaceLabelLangAware": {
+                    "de": [
+                        "Schweden",
+                        "S\u00f6dermanlands l\u00e4n"
+                    ],
+                    "fi": [
+                        "Ruotsi",
+                        "S\u00f6dermanlandin l\u00e4\u00e4ni"
+                    ],
+                    "ru": [
+                        "\u0428\u0432\u0435\u0446\u0438\u044f",
+                        "\u0421\u0451\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
+                    ],
+                    "pt": [
+                        "Su\u00e9cia",
+                        "Condado da S\u00f6dermanland"
+                    ],
+                    "bg": [
+                        "\u0428\u0432\u0435\u0446\u0438\u044f",
+                        "\u041b\u0435\u043d \u0421\u044c\u043e\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
+                    ],
+                    "lt": [
+                        "\u0160vedija",
+                        "Siodermanlandas l\u0117nas"
+                    ],
+                    "hr": [
+                        "\u0160vedska",
+                        "\u017dupanija S\u00f6dermanland"
+                    ],
+                    "lv": [
+                        "Zviedrija",
+                        "S\u0113dermanlandes l\u0113ne"
+                    ],
+                    "fr": [
+                        "Su\u00e8de",
+                        "S\u00f6dermanland"
+                    ],
+                    "hu": [
+                        "Sv\u00e9dorsz\u00e1g",
+                        "S\u00f6dermanland megye"
+                    ],
+                    "sk": [
+                        "\u0160v\u00e9dsko"
+                    ],
+                    "sl": [
+                        "\u0160vedska"
+                    ],
+                    "ga": [
+                        "An tSualainn",
+                        "Contae S\u00f6dermanland"
+                    ],
+                    "ca": [
+                        "Su\u00e8cia",
+                        "Comtat de S\u00f6dermanland"
+                    ],
+                    "sv": [
+                        "Sverige",
+                        "S\u00f6dermanlands l\u00e4n"
+                    ],
+                    "el": [
+                        "\u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1",
+                        "\u03a3\u03bf\u03bd\u03c4\u03b5\u03c1\u03bc\u03b1\u03bd\u03bb\u03ac\u03bd\u03c4"
+                    ],
+                    "mt": [
+                        "\u017bvezja"
+                    ],
+                    "en": [
+                        "Sweden",
+                        "S\u00f6dermanland County"
+                    ],
+                    "it": [
+                        "Svezia",
+                        "Contea di S\u00f6dermanland"
+                    ],
+                    "es": [
+                        "Suecia",
+                        "Provincia de S\u00f6dermanland"
+                    ],
+                    "et": [
+                        "Rootsi",
+                        "S\u00f6dermanlandi l\u00e4\u00e4n"
+                    ],
+                    "cs": [
+                        "\u0160v\u00e9dsko",
+                        "S\u00f6dermanland"
+                    ],
+                    "eu": [
+                        "Suedia",
+                        "S\u00f6dermanlandeko konderria"
+                    ],
+                    "pl": [
+                        "Szwecja",
+                        "S\u00f6dermanlands l\u00e4n"
+                    ],
+                    "da": [
+                        "Sverige",
+                        "S\u00f6dermanlands l\u00e4n"
+                    ],
+                    "ro": [
+                        "Suedia",
+                        "S\u00f6dermanlands l\u00e4n"
+                    ],
+                    "nl": [
+                        "Zweden",
+                        "S\u00f6dermanlands l\u00e4n"
+                    ]
+                },
+                "edmPlaceLatitude": [
+                    "61.0",
+                    "58.77105"
+                ],
+                "edmPlaceLongitude": [
+                    "15.0",
+                    "16.869507"
+                ],
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmm.dimu.org%2Fimage%2F012s8YerMrk4%3Fdimension%3D1200x1200&type=IMAGE"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "1980/1980"
+                    },
+                    {
+                        "def": "1980-01-01/1980-01-01"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "zxx": [
+                        "1980/1980",
+                        "1980-01-01/1980-01-01"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "91625_Ag_SE_SwedishNationalHeritage_no_obj"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/91625/nomu_object_NM0312863?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/91625/nomu_object_NM0312863",
+                "index": 0,
+                "language": [
+                    "sv"
+                ],
+                "link": "https://api.europeana.eu/record/91625/nomu_object_NM0312863.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "Swedish Open Cultural Heritage"
+                ],
+                "rights": [
+                    "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+                ],
+                "score": 22.632206,
+                "timestamp": 1688611660243,
+                "timestamp_created": "2019-04-27T21:41:34.644Z",
+                "timestamp_created_epoch": 1556401294644,
+                "timestamp_update": "2019-04-27T21:41:34.644Z",
+                "timestamp_update_epoch": 1556401294644,
+                "title": [
+                    "Rymdfarkost",
+                    "Spacecraft",
+                    "Rymdfarkost"
+                ],
+                "type": "IMAGE",
+                "ugc": [
+                    false
+                ]
+            },
+            {
+                "completeness": 10,
+                "country": [
+                    "Germany"
+                ],
+                "dataProvider": [
+                    "Badisches Landesmuseum Karlsruhe"
+                ],
+                "dcDescription": [
+                    "Das Kinoplakat im gezeichneten Stil von dem dritten Star-Wars-Film \u201eDie R\u00fcckkehr der Jedi-Ritter\u201c ist gepr\u00e4gt von einem farblichen Kontrast zwischen hell und dunkel, symbolisch f\u00fcr den Gut-B\u00f6se-Gegensatz. Auf der hellen Seite befinden sich in der Bildmitte die drei Protagonisten: Jedi-Ritter Luke Skywalker (Mark Hamill), Schmuggler Han Solo (Harrison Ford) und Prinzessin Leia Organa (Carrie Fisher). Die dunkle Seite des Plakats wird von dem ikonischen Helm des Antagonisten Darth Vader (David Prowse) eingenommen. Rundherum sind weitere Figuren und Handlungsorte des Films abgebildet. Ideengeber George Lucas verarbeitete in der urspr\u00fcnglichen Star-Wars-Saga verschiedene Mythen und Filmklassiker. Aber auch Referenzen zu Geschichte und Zeitgeschehen \u2013 wie etwa Massenvernichtungswaffen oder der Vietnamkrieg \u2013 wurden genutzt. Wie seine beiden Vorg\u00e4nger war \u201eDie R\u00fcckkehr der Jedi-Ritter\u201c an den Kinokassen \u00fcberaus erfolgreich und zog allein in der BRD mehr als f\u00fcnf Millionen Zuschauer*innen an. Neben Filmen wurde Star-Wars vor allem durch Merchandise fester Bestandteil der modernen Popkultur."
+                ],
+                "dcDescriptionLangAware": {
+                    "de": [
+                        "Das Kinoplakat im gezeichneten Stil von dem dritten Star-Wars-Film \u201eDie R\u00fcckkehr der Jedi-Ritter\u201c ist gepr\u00e4gt von einem farblichen Kontrast zwischen hell und dunkel, symbolisch f\u00fcr den Gut-B\u00f6se-Gegensatz. Auf der hellen Seite befinden sich in der Bildmitte die drei Protagonisten: Jedi-Ritter Luke Skywalker (Mark Hamill), Schmuggler Han Solo (Harrison Ford) und Prinzessin Leia Organa (Carrie Fisher). Die dunkle Seite des Plakats wird von dem ikonischen Helm des Antagonisten Darth Vader (David Prowse) eingenommen. Rundherum sind weitere Figuren und Handlungsorte des Films abgebildet. Ideengeber George Lucas verarbeitete in der urspr\u00fcnglichen Star-Wars-Saga verschiedene Mythen und Filmklassiker. Aber auch Referenzen zu Geschichte und Zeitgeschehen \u2013 wie etwa Massenvernichtungswaffen oder der Vietnamkrieg \u2013 wurden genutzt. Wie seine beiden Vorg\u00e4nger war \u201eDie R\u00fcckkehr der Jedi-Ritter\u201c an den Kinokassen \u00fcberaus erfolgreich und zog allein in der BRD mehr als f\u00fcnf Millionen Zuschauer*innen an. Neben Filmen wurde Star-Wars vor allem durch Merchandise fester Bestandteil der modernen Popkultur."
+                    ]
+                },
+                "dcTitleLangAware": {
+                    "de": [
+                        "Filmplakat: \"Star Wars - Die R\u00fcckkehr der Jedi-Ritter\""
+                    ]
+                },
+                "edmConcept": [
+                    "http://data.europeana.eu/concept/2090",
+                    "https://d-nb.info/gnd/4154371-3",
+                    "https://d-nb.info/gnd/4044522-7"
+                ],
+                "edmConceptLabel": [
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "\u0411\u0443\u043c\u0430\u0433\u0430"
+                    },
+                    {
+                        "def": "Paperi"
+                    },
+                    {
+                        "def": "Papel"
+                    },
+                    {
+                        "def": "\u0425\u0430\u0440\u0442\u0438\u044f"
+                    },
+                    {
+                        "def": "Popierius"
+                    },
+                    {
+                        "def": "Pap\u012brs"
+                    },
+                    {
+                        "def": "Papir"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "Pap\u00edr"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "Papir"
+                    },
+                    {
+                        "def": "P\u00e1ip\u00e9ar"
+                    },
+                    {
+                        "def": "Paper"
+                    },
+                    {
+                        "def": "Papper"
+                    },
+                    {
+                        "def": "Karta"
+                    },
+                    {
+                        "def": "\u03a7\u03b1\u03c1\u03c4\u03af"
+                    },
+                    {
+                        "def": "Paper"
+                    },
+                    {
+                        "def": "Carta"
+                    },
+                    {
+                        "def": "Papel"
+                    },
+                    {
+                        "def": "Paber"
+                    },
+                    {
+                        "def": "Paper"
+                    },
+                    {
+                        "def": "Pap\u00edr"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "H\u00e2rtie"
+                    },
+                    {
+                        "def": "Papir"
+                    },
+                    {
+                        "def": "Papier"
+                    },
+                    {
+                        "def": "Filmplakat"
+                    },
+                    {
+                        "def": "Papier"
+                    }
+                ],
+                "edmConceptPrefLabelLangAware": {
+                    "de": [
+                        "Papier"
+                    ],
+                    "ru": [
+                        "\u0411\u0443\u043c\u0430\u0433\u0430"
+                    ],
+                    "fi": [
+                        "Paperi"
+                    ],
+                    "def": [
+                        "Filmplakat",
+                        "Papier"
+                    ],
+                    "pt": [
+                        "Papel"
+                    ],
+                    "bg": [
+                        "\u0425\u0430\u0440\u0442\u0438\u044f"
+                    ],
+                    "lt": [
+                        "Popierius"
+                    ],
+                    "lv": [
+                        "Pap\u012brs"
+                    ],
+                    "hr": [
+                        "Papir"
+                    ],
+                    "fr": [
+                        "Papier"
+                    ],
+                    "hu": [
+                        "Pap\u00edr"
+                    ],
+                    "sk": [
+                        "Papier"
+                    ],
+                    "sl": [
+                        "Papir"
+                    ],
+                    "ga": [
+                        "P\u00e1ip\u00e9ar"
+                    ],
+                    "ca": [
+                        "Paper"
+                    ],
+                    "sv": [
+                        "Papper"
+                    ],
+                    "mt": [
+                        "Karta"
+                    ],
+                    "el": [
+                        "\u03a7\u03b1\u03c1\u03c4\u03af"
+                    ],
+                    "en": [
+                        "Paper"
+                    ],
+                    "it": [
+                        "Carta"
+                    ],
+                    "es": [
+                        "Papel"
+                    ],
+                    "et": [
+                        "Paber"
+                    ],
+                    "eu": [
+                        "Paper"
+                    ],
+                    "cs": [
+                        "Pap\u00edr"
+                    ],
+                    "pl": [
+                        "Papier"
+                    ],
+                    "ro": [
+                        "H\u00e2rtie"
+                    ],
+                    "da": [
+                        "Papir"
+                    ],
+                    "nl": [
+                        "Papier"
+                    ]
+                },
+                "edmDatasetName": [
+                    "1236_DDB_BLK"
+                ],
+                "edmIsShownAt": [
+                    "https://katalog.landesmuseum.de/object/6D66E90785C344DD9095DE1A15E15FBB"
+                ],
+                "edmIsShownBy": [
+                    "https://expo.bsz-bw.de/blm/digitaler-katalog/image?id=6D66E90785C344DD9095DE1A15E15FBB&pos=0&width=0"
+                ],
+                "edmPlaceLabel": [
+                    {
+                        "def": "Karlsruhe"
+                    },
+                    {
+                        "def": "San Francisco, Calif. (Herstellung)"
+                    }
+                ],
+                "edmPlaceLabelLangAware": {
+                    "de": [
+                        "Karlsruhe",
+                        "San Francisco, Calif. (Herstellung)"
+                    ]
+                },
+                "edmPreview": [
+                    "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fexpo.bsz-bw.de%2Fblm%2Fdigitaler-katalog%2Fimage%3Fid%3D6D66E90785C344DD9095DE1A15E15FBB%26pos%3D0%26width%3D0&type=IMAGE"
+                ],
+                "edmTimespanLabel": [
+                    {
+                        "def": "1983"
+                    },
+                    {
+                        "def": "20. Jahrhundert"
+                    },
+                    {
+                        "def": "XX \u0432\u0435\u043a"
+                    },
+                    {
+                        "def": "1900-luku"
+                    },
+                    {
+                        "def": "S\u00e9culo XX"
+                    },
+                    {
+                        "def": "20 \u0432\u0435\u043a"
+                    },
+                    {
+                        "def": "XX am\u017eius"
+                    },
+                    {
+                        "def": "20. gadsimts"
+                    },
+                    {
+                        "def": "20. stolje\u0107e"
+                    },
+                    {
+                        "def": "XXe si\u00e8cle"
+                    },
+                    {
+                        "def": "20. sz\u00e1zad"
+                    },
+                    {
+                        "def": "20. storo\u010die"
+                    },
+                    {
+                        "def": "20. stoletje"
+                    },
+                    {
+                        "def": "20\u00fa haois"
+                    },
+                    {
+                        "def": "Segle XX"
+                    },
+                    {
+                        "def": "1900-talet"
+                    },
+                    {
+                        "def": "20\u03cc\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+                    },
+                    {
+                        "def": "20th century"
+                    },
+                    {
+                        "def": "XX secolo"
+                    },
+                    {
+                        "def": "Siglo XX"
+                    },
+                    {
+                        "def": "20. sajand"
+                    },
+                    {
+                        "def": "XX. mendea"
+                    },
+                    {
+                        "def": "20. stolet\u00ed"
+                    },
+                    {
+                        "def": "XX wiek"
+                    },
+                    {
+                        "def": "Secolul al XX-lea"
+                    },
+                    {
+                        "def": "20. \u00e5rhundrede"
+                    },
+                    {
+                        "def": "20e eeuw"
+                    },
+                    {
+                        "def": "http://www.wikidata.org/entity/Q6927"
+                    },
+                    {
+                        "def": "http://id.loc.gov/authorities/names/sh2002012476"
+                    },
+                    {
+                        "def": "http://id.loc.gov/authorities/names/sh85139020"
+                    },
+                    {
+                        "def": "http://id.nlm.nih.gov/mesh/D049673"
+                    },
+                    {
+                        "def": "https://www.freebase.com/m/089_x"
+                    },
+                    {
+                        "def": "https://g.co/kg/m/089_x"
+                    },
+                    {
+                        "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+                    },
+                    {
+                        "def": "http://vocab.getty.edu/aat/300404514"
+                    },
+                    {
+                        "def": "http://id.worldcat.org/fast/1159810"
+                    },
+                    {
+                        "def": "http://dbpedia.org/resource/20th_century"
+                    }
+                ],
+                "edmTimespanLabelLangAware": {
+                    "de": [
+                        "20. Jahrhundert"
+                    ],
+                    "ru": [
+                        "XX \u0432\u0435\u043a"
+                    ],
+                    "fi": [
+                        "1900-luku"
+                    ],
+                    "pt": [
+                        "S\u00e9culo XX"
+                    ],
+                    "bg": [
+                        "20 \u0432\u0435\u043a"
+                    ],
+                    "lt": [
+                        "XX am\u017eius"
+                    ],
+                    "lv": [
+                        "20. gadsimts"
+                    ],
+                    "hr": [
+                        "20. stolje\u0107e"
+                    ],
+                    "fr": [
+                        "XXe si\u00e8cle"
+                    ],
+                    "hu": [
+                        "20. sz\u00e1zad"
+                    ],
+                    "sk": [
+                        "20. storo\u010die"
+                    ],
+                    "sl": [
+                        "20. stoletje"
+                    ],
+                    "ga": [
+                        "20\u00fa haois"
+                    ],
+                    "ca": [
+                        "Segle XX"
+                    ],
+                    "sv": [
+                        "1900-talet"
+                    ],
+                    "el": [
+                        "20\u03cc\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+                    ],
+                    "en": [
+                        "20th century"
+                    ],
+                    "it": [
+                        "XX secolo"
+                    ],
+                    "es": [
+                        "Siglo XX"
+                    ],
+                    "et": [
+                        "20. sajand"
+                    ],
+                    "eu": [
+                        "XX. mendea"
+                    ],
+                    "cs": [
+                        "20. stolet\u00ed"
+                    ],
+                    "zxx": [
+                        "1983"
+                    ],
+                    "pl": [
+                        "XX wiek"
+                    ],
+                    "ro": [
+                        "Secolul al XX-lea"
+                    ],
+                    "da": [
+                        "20. \u00e5rhundrede"
+                    ],
+                    "nl": [
+                        "20e eeuw"
+                    ]
+                },
+                "europeanaCollectionName": [
+                    "1236_DDB_BLK"
+                ],
+                "europeanaCompleteness": 10,
+                "guid": "https://www.europeana.eu/item/1236/item_OHJQDTMON7E6CEXRXPBWJ4JUXZ4PLB57?utm_source=api&utm_medium=api&utm_campaign=ougnitter",
+                "id": "/1236/item_OHJQDTMON7E6CEXRXPBWJ4JUXZ4PLB57",
+                "index": 0,
+                "language": [
+                    "de"
+                ],
+                "link": "https://api.europeana.eu/record/1236/item_OHJQDTMON7E6CEXRXPBWJ4JUXZ4PLB57.json?wskey=ougnitter",
+                "previewNoDistribute": false,
+                "provider": [
+                    "German Digital Library"
+                ],
+                "rights": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ],
+                "score": 21.382668,
+                "timestamp": 1727178613413,
+                "timestamp_created": "2024-09-24T11:46:58.686Z",
+                "timestamp_created_epoch": 1727178418686,
+                "timestamp_update": "2024-09-24T11:46:58.686Z",
+                "timestamp_update_epoch": 1727178418686,
+                "title": [
+                    "Filmplakat: \"Star Wars - Die R\u00fcckkehr der Jedi-Ritter\""
+                ],
+                "type": "IMAGE",
+                "ugc": [
+                    false
+                ]
+            }
+        ]
+    }
+}
