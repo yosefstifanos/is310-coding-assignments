@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yosef's Cooler Website (for fun ofc)</title>
+    <meta name="author" content="Yosef D. Stifanos"/>
+</head>
+<body>
+    <h2>Welcome.. TO THE GULAG!</h2>
+    <h2><a href="https://www.linkedin.com/in/yosefstifanos">LinkedIn (connect with me pls..)</a></h2>
+    <h2><a href="https://github.com/yosefstifanos">GitHub</a></h2>
+
+    <h3>About Me</h3>
+    <p>Hi! My name is Yosef Stifanos and I am a 3rd Year student at the University of Illinois at Urbana-Champaign.</p>
+
+    <p> Some fun facts about the bestest person ever (me btw):</p>
+    <ul>
+        <li>I'm currently studying Data Science.</li> 
+        <li>I love SOCCER (MAN UNITED)!</li>
+        <li>I love my IS 327 class. Machine Learning 4L! </li>
+    </ul>
+
+    <div class="testimonials" id="typingeffect" style="padding: 20px; background: #e0e0e0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <h3>What's spittin in Chambana</h3>
+        <blockquote style="background: #fff; padding: 15px; margin: 10px 0; border-left: 5px solid #007BFF; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); font-style: italic;">
+            <p id="testimonialText"></p>
+        </blockquote>
+    </div>
+    
+    <button id="changeColorButton" style="margin: 20px; padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">Change Background Color</button>
+    
+    <!-- Comment Section -->
+    <h3>Leave a Comment</h3>
+    <form id="commentForm">
+        <input type="text" id="name" placeholder="Your Name" required style="margin: 5px; padding: 10px; width: 200px;">
+        <textarea id="comment" placeholder="Your Comment" required style="margin: 5px; padding: 10px; width: 200px; height: 100px;"></textarea>
+        <button type="submit" style="margin: 5px; padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">Submit</button>
+    </form>
+
+    <div id="commentsSection" style="margin-top: 20px;">
+        <h3>Comments</h3>
+    </div>
+
+    <button id="clearCommentsButton" style="margin: 20px; padding: 10px 20px; background-color: #FF0000; color: white; border: none; border-radius: 5px; cursor: pointer;">Clear Comments</button>
+
+    <script>
+        function getRandomColor() {
+            const letters = '0123456789ABCDEF';
+            let color = '#';
+            for (let i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+    
+        function changeBackgroundColor() {
+            document.body.style.backgroundColor = getRandomColor();
+        }
+    
+        document.getElementById('changeColorButton').addEventListener('click', changeBackgroundColor);
+    
+        const testimonials = [
+            '"Garbage ahh site!" - All the haters',
+            '"How are you so tall..?" - All the short people',
+            '"Why are you so good at everything you do." - No one :(',
+            '"If you are reading this, you are cool" - Me',
+            '"HAPPY BIRTHDAY WORKU!!!" - Future Son-In-Law :)'
+        ];
+        let testimonialIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+    
+        function typeEffect() {
+            const currentTestimonial = testimonials[testimonialIndex];
+            const displayText = isDeleting ? currentTestimonial.substring(0, charIndex--) : currentTestimonial.substring(0, charIndex++);
+    
+            document.getElementById("testimonialText").innerHTML = displayText;
+    
+            if (!isDeleting && charIndex === currentTestimonial.length) {
+                setTimeout(() => isDeleting = true, 400);
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                testimonialIndex = (testimonialIndex + 1) % testimonials.length;
+            }
+    
+            setTimeout(typeEffect, isDeleting ? 20 : 30);
+        }
+    
+        window.onload = function() {
+            typeEffect();
+            loadComments();
+            setTimeout(clearComments, 5 * 60 * 1000); // Clear comments after 5 minutes
+        };
+
+        function loadComments() {
+            const comments = JSON.parse(localStorage.getItem('comments')) || [];
+            comments.forEach(comment => {
+                displayComment(comment.name, comment.text);
+            });
+        }
+
+        function saveComment(name, text) {
+            const comments = JSON.parse(localStorage.getItem('comments')) || [];
+            comments.push({ name, text });
+            localStorage.setItem('comments', JSON.stringify(comments));
+        }
+
+        function displayComment(name, text) {
+            const commentElement = document.createElement('div');
+            commentElement.style.margin = '10px 0';
+            commentElement.style.padding = '10px';
+            commentElement.style.background = '#f0f0f0';
+            commentElement.style.borderRadius = '5px';
+            commentElement.style.boxShadow = '0 2px 4px rgba(0, 0, 0, 0.1)';
+
+            const nameElement = document.createElement('strong');
+            nameElement.textContent = name;
+            commentElement.appendChild(nameElement);
+
+            const commentText = document.createElement('p');
+            commentText.textContent = text;
+            commentElement.appendChild(commentText);
+
+            document.getElementById('commentsSection').appendChild(commentElement);
+        }
+
+        document.getElementById('commentForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const name = document.getElementById('name').value;
+            const comment = document.getElementById('comment').value;
+
+            displayComment(name, comment);
+            saveComment(name, comment);
+
+            document.getElementById('commentForm').reset();
+        });
+
+        function clearComments() {
+            localStorage.removeItem('comments');
+            document.getElementById('commentsSection').innerHTML = '<h3>Comments</h3>';
+        }
+
+        document.getElementById('clearCommentsButton').addEventListener('click', function() {
+            const password = prompt('Enter password to clear comments:');
+            if (password === 'yosefstifanos') {
+                clearComments();
+            } else {
+                alert('Incorrect password!');
+            }
+        });
+    </script>
+
+</body>
+</html>
