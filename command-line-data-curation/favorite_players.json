@@ -1,0 +1,32 @@
+[
+    {
+        "Player": "Messi",
+        "Team": "Inter Miami FC",
+        "Age": 37,
+        "Salary": 20446667
+    },
+    {
+        "Player": "Rashford",
+        "Team": "Manchester United F.C.",
+        "Age": 26,
+        "Salary": 15600000
+    },
+    {
+        "Player": "Haaland",
+        "Team": "Manchester City F.C.",
+        "Age": 24,
+        "Salary": 19500000
+    },
+    {
+        "Player": "Salah",
+        "Team": "Liveerpool F.C.",
+        "Age": 32,
+        "Salary": 18200000
+    },
+    {
+        "Player": "Yosef Stifanos",
+        "Team": "Manchester United",
+        "Age": 21,
+        "Salary": 1000000000
+    }
+]
